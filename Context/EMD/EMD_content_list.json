@@ -1,0 +1,4233 @@
+[
+    {
+        "type": "text",
+        "text": "Multiplex Depth for Network-Valued Data and Applications",
+        "text_level": 1,
+        "bbox": [
+            148,
+            201,
+            787,
+            254
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Maoyu Zhang, Linsui Deng & Wenlin Dai",
+        "bbox": [
+            148,
+            284,
+            515,
+            304
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To cite this article: Maoyu Zhang, Linsui Deng & Wenlin Dai (2025) Multiplex Depth for Network-Valued Data and Applications, Journal of Computational and Graphical Statistics, 34:4, 1625-1641, DOI: 10.1080/10618600.2025.2475137",
+        "bbox": [
+            146,
+            328,
+            845,
+            374
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To link to this article: https://doi.org/10.1080/10618600.2025.2475137",
+        "bbox": [
+            148,
+            380,
+            676,
+            398
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a035a6f84d6a921bbdacc0a1d5eb806043f34892593d03c268a682571b211230.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            164,
+            441,
+            194,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "View supplementary material",
+        "bbox": [
+            200,
+            448,
+            425,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0585773d847cf489669dc120f39a7ddc7acfe860f8952b2d4374f7fc726bd29.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            162,
+            493,
+            195,
+            518
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published online: 19 May 2025.",
+        "bbox": [
+            201,
+            496,
+            414,
+            515
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2a488bbb0b95462ae30d73465393d2fc83c80c48872fb6f5cc8a964c07a30e3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            162,
+            543,
+            195,
+            565
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Submit your article to this journal",
+        "bbox": [
+            203,
+            549,
+            451,
+            567
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ceeed977b67639121207e7d7f97969a7e3ccb664781fb1c9ab586f8d3ee6110.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            165,
+            596,
+            198,
+            617
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article views: 255",
+        "bbox": [
+            165,
+            597,
+            321,
+            617
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/04e4432178c7943363896fdb180610979a514a0e7823ebb1cd041ce6e8aa6ed7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            164,
+            647,
+            194,
+            672
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "View related articles",
+        "bbox": [
+            203,
+            653,
+            362,
+            671
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9f51ae62c23180b0fc6380f12fc627ddc943b8a1ec08e453af9f9afc7e40a29.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            165,
+            701,
+            195,
+            728
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "View Crossmark data",
+        "bbox": [
+            201,
+            705,
+            365,
+            722
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "JOURNAL OFVOLMNUNADECENTERIS COMPUTATIONALAND GRAPHICAL STATISTICS",
+        "bbox": [
+            31,
+            21,
+            179,
+            172
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Journal of Computational and Graphical Statistics",
+        "bbox": [
+            195,
+            49,
+            764,
+            73
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Taylor & Francis Taylor & Francis Group",
+        "bbox": [
+            848,
+            19,
+            966,
+            44
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "ISSN: 1061-8600 (Print) 1537-2715 (Online) Journal homepage: www.tandfonline.com/journals/ucgs20",
+        "bbox": [
+            195,
+            159,
+            813,
+            174
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=ucgs20",
+        "bbox": [
+            239,
+            920,
+            757,
+            950
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Check for updates",
+        "bbox": [
+            813,
+            98,
+            918,
+            111
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Multiplex Depth for Network-Valued Data and Applications",
+        "text_level": 1,
+        "bbox": [
+            73,
+            125,
+            658,
+            145
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Maoyu Zhang<sup>a,b</sup>, Linsui Deng<sup>a,c</sup>, and Wenlin Dai<sup>d</sup>",
+        "bbox": [
+            73,
+            160,
+            416,
+            176
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "<sup>a</sup>Center for Applied Statistics, Institute of Statistics and Big Data, Renmin University of China, Beijing, China; <sup>b</sup>Goizueta Business School, Emory University, Atlanta, GA; <sup>c</sup>School of Data Science, The Chinese University of Hong Kong, Shenzhen, China; <sup>d</sup>Center for Applied Statistics, BRAIN, Institute of Statistics and Big Data, Renmin University of China, Beijing, China",
+        "bbox": [
+            71,
+            185,
+            923,
+            226
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT",
+        "text_level": 2,
+        "bbox": [
+            93,
+            250,
+            160,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The demand for analyzing network-valued data is growing in various research areas. To facilitate robust analysis of such data, we introduce a novel depth concept called multiplex depth, which generalizes Tukey’s depth for multivariate data to the realm of network data. This depth is applicable to both binary and weighted networks, enabling data ordering and outlier detection. We study the depth-related properties of multiplex depth and establish the consistency of sample depth and depth-based median estimators. Furthermore, we devise eficient computational algorithms to facilitate the practical implementation. To assess the efectiveness of our approach, we conduct a comprehensive evaluation using both simulated data and a neuroscience-derived dataset of brain networks. This evaluation takes into account crucial tasks such as data ranking, center estimation, and outlier detection, ensuring a thorough and rigorous analysis of our methodology. Supplementary materials for this article are available online.",
+        "bbox": [
+            91,
+            262,
+            750,
+            391
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE HISTORY Received March 2023 Accepted February 2025",
+        "bbox": [
+            769,
+            253,
+            898,
+            287
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS Data ranking; Outlier detection; Statistical depth; Subgraph structure; Two-sample test",
+        "bbox": [
+            769,
+            297,
+            913,
+            356
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction",
+        "text_level": 2,
+        "bbox": [
+            73,
+            425,
+            197,
+            439
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Network is a widely used data structure for depicting relationships among objects, comprising a collection of vertices and edges connecting the vertices. In this structure, vertices represent the objects themselves and edges represent the relationships between them. The significance of network data has garnered substantial attention due to its broad application in areas such as social networks (Liu, Patacchini, and Rainone 2017; Zhu et al. 2020; Zhang, Zhang, and Dai 2024), biological networks (Zhang and Cao 2017; Zhang et al. 2024), financial networks (Han et al. 2016; Zou et al. 2017; Accominotti, Lucena-Piquero, and Ugolini 2023), and trafic networks (Dubey and Müller 2022; Zhang et al. 2022), among others. In this article, we use the terms network and graph interchangeably.",
+        "bbox": [
+            71,
+            448,
+            491,
+            643
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most studies focus on analyzing a single network, such as community detection (Khan and Niazi 2017; Abbe 2017; Zhang, He, and Wang 2022), degree distribution estimation (Hay et al. 2009), or subgraph intensity estimation (Chang, Kolaczyk, and Yao 2020). However, the focus has gradually increased on the analysis of multiple networks, also known as network-valued data, where the unit of data is a single network (Lovato et al. 2020, 2021). Most research into network-valued data focuses on population modeling (Durante, Dunson, and Vogelstein 2017; Lunagómez, Olhede, and Wolfe 2021), two-sample tests (Maugis et al. 2020; Durante and Dunson 2018; Xia and Li 2022; Hu 2019; Lovato et al. 2020, 2021), community detection (Barbillon et al. 2017; Rohe, Chatterjee, and Yu 2011; Paul and Chen 2020), and other areas (Jiang, Munger, and Bunke 2001; Han et al. 2016). The multiple network data discussed above typically consists of network samples that share the same set of vertices, which is also the scenario considered in our article.",
+        "bbox": [
+            71,
+            643,
+            491,
+            843
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            504,
+            425,
+            924,
+            484
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A basic challenge in network analysis is that the conclusions can be misleading if the network-valued data are contaminated by outliers. Network outliers can be roughly classified as vertex-wise and sample-wise outliers (Hodge and Austin 2004; Zhang, Meratnia, and Havinga 2010; Gupta et al. 2014). Vertex-wise outliers are unusual vertices within a single network that can occur in various domains. Sample-wise outliers are exceptional networks that exhibit unusual patterns. For example, in patients with Alzheimer’s disease, the functional responses or patterns observed through fMRI scans difer from those seen in healthy aging individuals (Greicius et al. 2004). Many studies have focused on detecting sample-wise outliers, such as Gupta et al. (2014), who detected outliers based on network community and graph similarity, using various measurements (Papadimitriou, Dasdan, and Garcia-Molina 2010; Donnat and Holmes 2018). Mining subnetwork structures comprehensively identifies and interprets sample-wise outliers (Dang et al. 2016). Both vertex-wise and sample-wise outliers are challenging. For multiple networks considered in this article, we focus on the sample-wise outliers, which motivates us to develop a robust method with statistical depth.",
+        "bbox": [
+            504,
+            484,
+            924,
+            803
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Statistical depth is a method of measuring the centrality of data, or the extent of outlying data, in terms of their underlying distributions, and thus generalizes the concept of order statistics to multiple types of data, such as multivariate and functional data (Tukey 1975; Liu 1990; López-Pintado and Romo 2009), directional or spherical data (Pandolfo, Paindaveine, and Porzio 2018), matrix data (Chen, Gao, and Ren 2018; Paindaveine and Van Bever 2018), curve data (Lafaye de Micheaux, Mozharovskyi, and Vimond 2021) and set data (Cascos, Li, and Molchanov 2021). Zuo and Serfling (2000a) proposed a general definition of depth for multivariate data and investigated four key desirable depth properties. Other attempts to construct depth in network data have mainly focused on single-network cases. For example, Bertagnolli, Agostinelli, and De Domenico (2020) took a novel approach and equipped projected Tukey depth with a network-embedding metric to identify the centrality of vertices, while Raj et al. (2017) extended the band depth to path ensembles within a particular network to systematically visualize the paths. A natural question, then, is how to establish a depth function for multiple networks that combines with the network structure and extends the depth properties.",
+        "bbox": [
+            504,
+            801,
+            924,
+            834
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS 2025, VOL. 34, NO. 4, 1625–1641 https://doi.org/10.1080/10618600.2025.2475137",
+        "bbox": [
+            73,
+            49,
+            357,
+            85
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Taylor & Francis Taylor & Francis Group",
+        "bbox": [
+            751,
+            49,
+            923,
+            83
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "CONTACT Wenlin Dai wenlin.dai@ruc.edu.cn Center for Applied Statistics, Institute of Statistics and Big Data, Renmin University of China, Beijing, 100086, China. Maoyu Zhang and Linsui Deng are joint first authors. Supplementary materials for this article are available online. Please go to www.tandfonline.com/r/JCGS © 2025 American Statistical Association and Institute of Mathematical Statistics",
+        "bbox": [
+            71,
+            910,
+            919,
+            963
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            61,
+            491,
+            349
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We propose a depth notion for network-valued data, named multiplex depth. This notion extends Tukey’s depth to the domain of multiple networks, enabling eficient outlier detection and network ordering. The multiplex depth framework is applicable to all unweighted/weighted and undirected/directed networks, facilitated by eficient computational algorithms. The work marks an initial attempt to extend Tukey’s concept of data depth into the realm of multiple networks, although it acknowledges some constraints on its applicability. Our contribution is multi-fold. First, we introduce an extension of the depth concept into the realm of multiple networks, incorporating both global and local network structures. Second, we establish the properties of the proposed depth measures and demonstrate the consistency of the depth-based center with the population center. Additionally, we introduce a structure weight associated with the depth, derived from the network structure, which significantly enhances the interpretability of the ranking outcomes. Lastly, we validate the efectiveness of our approach through both simulations and a study on brain connectivity, encompassing data ranking, center estimation, and outlier detection.",
+        "bbox": [
+            71,
+            349,
+            491,
+            667
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As a primary step in defining depth for network data, our article considers a collection of independent network samples defined over a common set of vertices. These assumptions are well satisfied by networks from various research areas, such as bioinformatics (Zhang and Cao 2017) and neuroscience (Zhou and Li 2014; Zhang et al. 2024), while could be violated by networks from some other areas, for example social networks and economic networks, where the vertex set may vary among samples. We leave the extension of our framework to more general cases as future work.",
+        "bbox": [
+            71,
+            667,
+            491,
+            818
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The remainder of the article is organized as follows. Section 2 describes a generalized depth notion for networks, termed (subgraph) multiplex depth, focusing on the whole network first and then gradually shifting to subgraphs. We thoroughly investigate the edgewise multiplex depth function as an important special case and introduce the structure weights tailored for network analysis. In Section 3, we examine the theoretical properties of edgewise multiplex depth and derive the consistency between the depth-based empirical center and population center. In Section 4, we evaluate the performance of the proposed depth for unweighted and weighted networks, in terms of data ranking, center estimation, and outlier detection. In Section 5, we apply the proposed depth to analyze an electroencephalography dataset via tasks of center estimation, outlier detection and a two-sample test. Section 6 provides a discussion.",
+        "bbox": [
+            71,
+            816,
+            491,
+            955
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            61,
+            924,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1. Notations",
+        "text_level": 2,
+        "bbox": [
+            506,
+            181,
+            616,
+            196
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Let $\\textbf { \\textit { G } } = \\textbf { \\textit { ( V , E ) } }$ denote a network without duplicate edges or self-loops, where $V ~ = ~ [ N ] ~ = ~ \\{ 1 , 2 , . . . , N \\}$ , with $N \\geq$ 2, is the vertex set and $E ~ = ~ \\left\\{ e ( i , j ) : i , j \\in V , i \\neq j \\right\\}$ is the edge set. The network G can be unweighted or weighted, and directed or undirected, defined over the same set of vertex. For unweighted networks, we define $e ( i , j ) ~ : = ~ ( i , j )$ , and $e ( i , j ) \\in$ E indicates the existence of an edge. For weighted networks, $e ( i , j ) \\in \\mathbb { R }$ represents the edge weight. In directed networks, the edge extends from i to $j ;$ in undirected networks, $e ( i , j ) = e ( j , i )$ A network G can be uniquely expressed by its adjacency matrix $A ^ { G }$ with zero diagonal elements where $A _ { i j } ^ { G } ~ = ~ \\mathbf { 1 } _ { E } ( e ( i , j ) )$ for the unweighted network, and $A _ { i j } ^ { G } ~ = ~ e ( i , \\bar { j } )$ for the weighted network. For sparse weighted networks, we set the weights of absent edges as zero to enable the application of our method. We use $\\begin{array} { r } { \\| A \\| _ { 1 } = \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { N } | A _ { i j } | } \\end{array}$ and $\\| A \\| _ { \\infty } = \\operatorname* { m a x } _ { i , j = 1 } ^ { N } | A _ { i j } |$ to measure the $L _ { 1 }$ and $L _ { \\infty }$ norms of a matrix A, respectively. We focus on the labeled networks and denote the set of all $N _ { - }$ vertex labeled networks as $\\mathcal { G } _ { [ N ] } : = \\{ ( V , E ) : V = [ N ] \\}$ . Consider the probability space as $( \\mathcal { G } _ { [ N ] } , \\mathcal { F } , p r )$ , where $\\mathcal { F }$ is a sigma-field. Our observation is a network ensemble consisting of $n \\ \\geq \\ 2$ networks, ${ { \\mathcal G } _ { n } } \\ = \\ \\left\\{ { G } _ { l } \\right\\} _ { l = 1 } ^ { n } \\ = \\ \\left\\{ \\left( V , { E } ^ { l } \\right) \\right\\} _ { l = 1 } ^ { n }$ . To emphasize the randomness of a network, we use boldface, such as G or A, to avoid confusion. Additionally, we use italicized structure weight to denote the weights associated with the proposed multiplex depth, thus, distinguishing them from the edge weights. For simplicity, it can sometimes be abbreviated as italicized weight.",
+        "bbox": [
+            504,
+            204,
+            924,
+            607
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, we consider two networks, $G _ { a } = ( V , E ^ { a } )$ and $G _ { b } = ( V , E ^ { b } ) \\in \\mathcal { G } _ { [ N ] }$ , and introduce a partial ordering to $\\mathcal { G } _ { [ N ] }$ For unweighted networks, we have $G _ { a } \\stackrel { - } { \\subset } G _ { b } \\mathrm { i f } E ^ { a } \\subset E ^ { \\bar { b } }$ and for weighted networks $G _ { a } \\preceq G _ { b } \\mathrm { ~ i f ~ } e ^ { a } ( i , j ) \\leq e ^ { b } ( i , j ) , i \\neq j \\in [ N ]$ The ordering can be naturally expressed with the corresponding adjacent matrices.",
+        "bbox": [
+            504,
+            607,
+            923,
+            699
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Multiplex Depth Function for Networks",
+        "text_level": 2,
+        "bbox": [
+            504,
+            726,
+            831,
+            742
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1. Motivation: Global Multiplex Depth",
+        "text_level": 2,
+        "bbox": [
+            504,
+            750,
+            794,
+            765
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this section, we provide a method to measure the representativeness of a network $G \\in { \\mathcal { G } } _ { [ N ] }$ with respect to a probability space $( \\mathcal { G } _ { [ N ] } , \\mathcal { F } , p r )$ . Examples of probability space include the Erdos-Rényi model (Gilbert˝ 1959), unimodal network distributions (Lunagómez, Olhede, and Wolfe 2021), and random measurement error model (Chang, Kolaczyk, and Yao 2020) for unweighted networks and Gaussian graphical model (Ren et al. 2015) for weighted networks. Roughly speaking, we construct a multiplex consisting of one up-layer and down-layer, formed by $k \\ \\geq \\ 2$ networks $G _ { 1 } , G _ { 2 } , \\ldots , G _ { k }$ randomly sampled from $( \\mathcal { G } _ { [ N ] } , \\mathcal { F } , p r )$ . Notably, in practice, our model does not require generating samples from the populations, nor does it necessitate estimating the populations. Instead, we focus on constructing the multiplex depth based on given network samples.",
+        "bbox": [
+            503,
+            773,
+            924,
+            955
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "1626",
+        "bbox": [
+            75,
+            31,
+            104,
+            42
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            112,
+            27,
+            133,
+            44
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "M. ZHANG, L. DENG, AND W. DAI",
+        "bbox": [
+            140,
+            30,
+            310,
+            44
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            63,
+            490,
+            94
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Following the aforementioned intuition, we consider the construction of a multiplex for K unweighted or weighted networks, respectively. In our framework, we assume networks are directed; however, the method is equally applicable to undirected networks, requiring computation of only the upper or lower triangular graph due to their symmetry. Begin with unweighted networks, the up- and down-layers of the multiplex are",
+        "bbox": [
+            71,
+            94,
+            491,
+            214
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} {G ^ {u p} (G _ {1}, G _ {2}, \\ldots , G _ {k}) = (V, E ^ {u p} = \\cup_ {l = 1} ^ {K} E ^ {l}),} \\\\ {G ^ {d o w n} (G _ {1}, G _ {2}, \\ldots , G _ {k}) = (V, E ^ {d o w n} = \\cap_ {l = 1} ^ {k} E ^ {l}).} \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            125,
+            219,
+            437,
+            260
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For simplicity of notation, we use $G ^ { u p }$ and $G ^ { d o w n }$ when there is no ambiguity. The constructed multiplex is then defined as",
+        "bbox": [
+            71,
+            268,
+            490,
+            300
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} M (G _ {1}, G _ {2}, \\ldots , G _ {k}) = \\left\\{G: G ^ {d o w n} \\subset G \\subset G ^ {u p} \\right\\} \\\\ = \\left\\{(V, E): E ^ {d o w n} \\subset E \\subset E ^ {u p} \\right\\}. \\end{array}\\tag{1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            111,
+            308,
+            450,
+            359
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Intuitively, a representative network should likely be located between up and down layers. Therefore, if G falls into multiplex, it is a representative network for such a multiplex; otherwise it is an outlier. Figure 1 gives an example of the multiplex constructed by two networks, along with an out-multiplex sample. As for the weighted networks, the multiplex is similarly constructed as",
+        "bbox": [
+            71,
+            367,
+            491,
+            460
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} M (G _ {1}, G _ {2}, \\dots , G _ {k}) = \\left\\{G: G ^ {d o w n} \\preceq G \\preceq G ^ {u p} \\right\\} \\\\ = \\left\\{(V, E): e ^ {d o w n} (i, j) \\leq e (i, j) \\right. \\\\ \\left. \\leq e ^ {u p} (i, j), i \\neq j \\in [ N ] \\right\\}, \\end{array}\\tag{2}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            114,
+            465,
+            444,
+            539
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r l r } { e ^ { u p } ( i , j ) } & { { } = } & { \\operatorname* { m a x } _ { l = 1 , 2 , \\ldots , k } e ^ { l } ( i , j ) } \\end{array}$ and $\\begin{array} { r l } { e ^ { d o w n } ( i , j ) } & { { } = } \\end{array}$ $\\mathrm { m i n } _ { l = 1 , 2 , \\ldots , k } e ^ { l } ( i , j )$ . Binary networks may be treated as weighted ones with edge weights equal to 0 or 1. However, it does not mean simply treating the unweighted networks as weighted networks as they build on diferent supports and possess distinct theoretical properties.",
+        "bbox": [
+            71,
+            547,
+            491,
+            640
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The above construction merely reflects the coherence between G and the k given networks. We focus on the coincidence of G and $p r ( \\cdot )$ , which can be measured by the probability that G is included in a multiplex constructed by k random networks from $( \\mathcal { G } _ { [ N ] } , \\mathcal { F } , p r )$ . We define the multiplex depth in the population level as",
+        "bbox": [
+            71,
+            640,
+            491,
+            732
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} M D _ {p r} ^ {k} (G) = \\mathbb {E} (\\mathbf {1} \\{G \\in M (\\mathbf {G} _ {1}, \\mathbf {G} _ {2}, \\ldots , \\mathbf {G} _ {k} \\}) \\\\ = p r \\{G \\in M (\\mathbf {G} _ {1}, \\mathbf {G} _ {2}, \\ldots , \\mathbf {G} _ {k}) \\}. \\end{array}\\tag{3}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            140,
+            738,
+            421,
+            773
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Practically, given a network ensemble ${ \\mathcal { G } } _ { n } , n \\geq k ,$ we can estimate $M D _ { p r } ^ { k } ( G )$ using a U statistic",
+        "bbox": [
+            71,
+            782,
+            490,
+            815
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} M D _ {n} ^ {k} (G) = \\binom {n} {k} ^ {- 1} \\sum_ {1 \\leq l _ {1} <   l _ {2} <   \\dots <   l _ {k} \\leq n} \\\\ \\mathbf {1} \\left\\{G \\in M \\left(G _ {l _ {1}}, G _ {l _ {2}}, \\ldots , G _ {l _ {k}}\\right) \\right\\}, \\end{array}\\tag{4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            130,
+            823,
+            429,
+            887
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which measures the proportion of multiplexes, constructed by all combinations of k networks in ${ \\mathcal { G } } _ { n }$ , that contain G. Summing up the value established separately on diferent choices of $k ,$ we can define the global multiplex depths (gMD) to consider the global structure of networks at once. The sample and population version of gMDs for G are defined as",
+        "bbox": [
+            71,
+            893,
+            491,
+            955
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            504,
+            61,
+            923,
+            94
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} g M D _ {n} ^ {K} (G) = \\sum_ {k = 2} ^ {K} M D _ {n} ^ {k} (G) \\quad a n d \\\\ g M D _ {p r} ^ {K} (G) = \\sum_ {k = 2} ^ {K} M D _ {p r} ^ {k} (G), \\end{array}\\tag{5}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            602,
+            102,
+            826,
+            191
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where M(·), $M D _ { p r } ^ { k } ( \\cdot ) _ { \\cdot }$ , and $M D _ { n } ^ { k } ( \\cdot )$ are defined in (2)–(4). As indicated by López-Pintado and Romo (2009), the gMD reflects the representativeness of a network and thus naturally induces an ordering. However, the variation in edge weights may result in no network being completely contained within any multiplex, especially when the size of networks is large. The gMD can then degenerate, as all networks are assigned with zero depth and thereby indistinguishable. We address this by shifting our attention from global to local structures, that is, subgraphs.",
+        "bbox": [
+            503,
+            200,
+            924,
+            340
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2. General Subgraph Multiplex Depth",
+        "text_level": 2,
+        "bbox": [
+            504,
+            362,
+            790,
+            378
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this section, we modify the multiplex depth by accounting for commonly investigated subgraphs, such as edges, two-stars, triples, triangles, and chains (Balachandran, Kolaczyk, and Viles 2017; Maugis et al. 2020; Chang, Kolaczyk, and Yao 2020). The main steps in constructing this new depth are to: (a) select a subgraph structure of specific interest; (b) calculate gMD by treating the selected subgraph as whole graph; and (c) integrate gMD values over all subgraphs of the same structure. We establish general subgraph multiplex depth by first introducing a network restriction to a subgraph indicator.",
+        "bbox": [
+            503,
+            385,
+            924,
+            537
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Definition 1. We define an unweighted network $H = ( V ^ { H } , E ^ { H } ) \\in$ $\\mathcal { G } _ { V ^ { H } } ^ { ( u ) }$ without replicated edges or self-loops as a subgraph indicator of $\\mathcal { G } _ { [ N ] }$ if $V ^ { H } \\subset [ N ]$ and $E ^ { H } \\subset V ^ { H } \\times V ^ { H }$",
+        "bbox": [
+            504,
+            547,
+            924,
+            601
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Definition 2. Consider a network $G = ( V ^ { G } , E ^ { G } ) \\in \\mathcal { G } _ { [ N ] }$ and a subgraph indicator H of $\\mathcal { G } _ { [ N ] }$ . We denote the subgraph of G restricted to H as $G | _ { H } ~ = ~ \\mathsf { \\bar { ( } } \\dot { V } ^ { G | _ { H } } , E ^ { G | _ { H } } \\bigr )$ <sup>\u0006</sup>, which satisfies that $V ^ { G | _ { H } } = V ^ { H }$ and $E ^ { G | _ { H } } = \\big \\{ e ^ { \\dot { G } | _ { H } } ( i , j ) : i , j \\in V ^ { G | _ { H } } , i \\ne j \\big \\}$ , where $e ^ { G | _ { H } } ( i , j ) = e ^ { G } ( i , j ) { \\bf 1 } \\left\\{ e ( i , j ) \\in E ^ { H } \\right\\}$",
+        "bbox": [
+            503,
+            609,
+            924,
+            693
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Definitions 1 and 2 clearly demonstrate that gMD is restricted to a given subgraph indicator of $\\mathcal { G } _ { [ N ] }$ . In addition, we are also interested in the gMD that is restricted to all subgraph indicators isomorphic to $\\mathrm { i t . } ^ { \\mathrm { \\check { 1 } } }$ After specifying the subgraph indicator, we obtain global multiplex depths on each isomorphic subgraph. A straightforward strategy for integrating these gMD is to treat them equally and take the average. In practice, additional information may indicate that some subgraphs are more critical than others for describing the whole sample, so assigning relative structure weights is an ideal option. A detailed discussion of the structure weights is provided in Section 2.3. Thus, we can now formally propose the subgraph multiplex depth.",
+        "bbox": [
+            503,
+            702,
+            924,
+            887
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS",
+        "bbox": [
+            545,
+            30,
+            856,
+            44
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            862,
+            27,
+            883,
+            45
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "1627",
+        "bbox": [
+            893,
+            31,
+            921,
+            42
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_footnote",
+        "text": "<sup>1</sup>We say $H ^ { \\prime } = ( V ^ { H ^ { \\prime } } , E ^ { H ^ { \\prime } } )$ is isomorphic to $H = ( V ^ { H } , G ^ { H } ) .$ , that is, $H ^ { \\prime } \\cong H ,$ if there is a permutation mapping $\\pi : V ^ { H ^ { \\prime } } \\to V ^ { H }$ such that $e ^ { H ^ { \\prime } } ( i , j ) = e ^ { H } ( \\pi ( i ) , \\pi ( j ) )$ where $i , j \\in V ^ { H ^ { \\prime } }$ and $i \\neq j .$",
+        "bbox": [
+            506,
+            909,
+            923,
+            955
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9fd19dfcab86e8e70b26035cbde42d3c7a61957dd4b7476f3d62b791a13ba98.jpg",
+        "image_caption": [
+            "A: Multiplex Constructors",
+            "Figure 1. An illustration of a subgraph multiplex. The bold boxes frame the cases that are located in the multiplex by G. The larger vertices are those of the examined subgraph indicators. Panel B shows the global multiplex constructed by $G _ { 1 }$ and $G _ { 2 }$ . Panels C and D present the multiplexes and target network restricted to the examined subgraph indicators. In Panel D, the middle vertex of the two-star indicator is in pink."
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            122,
+            75,
+            874,
+            760
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Definition 3 (Subgraph multiplex depth). Let K be a fixed integer with $2 ~ \\leq ~ K ~ \\leq ~ n .$ . Given H, a subgraph structure indicator of $\\mathcal { G } _ { [ N ] }$ and the structure weight with $\\textbf { w } = \\ \\{ w _ { H ^ { \\prime } } \\} _ { H ^ { \\prime } \\cong H } \\ \\geq \\ 0$ and $\\begin{array} { r } { \\sum _ { H ^ { \\prime } \\cong H } w _ { H ^ { \\prime } } = 1 } \\end{array}$ , the sample and population version of subgraph multiplex depths are defined as",
+        "bbox": [
+            71,
+            830,
+            491,
+            909
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns M D _ {n, H} ^ {K} (G; \\mathbf {w}) = \\sum_ {H ^ {\\prime} \\cong H} w _ {H ^ {\\prime}} g M D _ {n} ^ {H ^ {\\prime}, K} (G | _ {H ^ {\\prime}}),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            133,
+            914,
+            429,
+            948
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and",
+        "bbox": [
+            504,
+            832,
+            537,
+            845
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns M D _ {p r, H} ^ {K} (G; \\mathbf {w}) = \\sum_ {H ^ {\\prime} \\cong H} w _ {H ^ {\\prime}} g M D _ {p r} ^ {H ^ {\\prime}, K} (G | _ {H ^ {\\prime}}),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            565,
+            858,
+            862,
+            891
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $g M D _ { n } ^ { H ^ { \\prime } , K }$ and $g M D _ { p r } ^ { H ^ { \\prime } , K }$ are the sample and population version gMD defined in (5) constructed by the network ensemble restricted to $H ^ { \\prime } { , }$ , respectively.",
+        "bbox": [
+            503,
+            906,
+            923,
+            955
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "1628",
+        "bbox": [
+            75,
+            31,
+            104,
+            42
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            112,
+            27,
+            133,
+            44
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "M. ZHANG, L. DENG, AND W. DAI",
+        "bbox": [
+            140,
+            30,
+            310,
+            44
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 gives an example of three distinct interested structures: global structure, triangle and two-star, in which sMD difers. In Panel B, G locates out of the global multiplex since $e ( a , d )$ in G does not appear in $G ^ { u p }$ and $e ( c , d )$ in ${ \\hat { G } } ^ { d o w n }$ fail to be included in $G ;$ therefore, $\\mathrm { g M D } _ { 2 } ^ { 2 } ( G ) = 0$ , which is quiet restrictive. In Panel $\\mathrm { C } ,$ the structure of interest is the triangle. Inclusion occurs in one of the four isomorphic subgraphs, yielding $s \\mathrm { M D } _ { 2 , \\triangle } ^ { 2 } ( G ) = 1 / 4$ . In Panel D, the focus is on twostars, with inclusion in 5 of the 12 isomorphic subgraphs, giving ${ \\mathrm { s M D } } _ { 2 , \\mathrm { t w o - s t a r } } ^ { 2 } ( G ) = 5 / 1 2$ . For edges, $\\mathrm { s M } \\bar { \\mathrm { D } } _ { 2 , \\mathrm { e d g e } } ^ { 2 } ( G ) \\stackrel { \\cdot } { = } 2 / \\bar { 3 } .$ , as 4 out of 6 edges in G are located in the multiplex formed by $G _ { 1 }$ and $G _ { 2 }$ . Subgraph multiplex depth can be regarded as a soft version of gMD on the whole graph, which calculates the (weighted) average of gMD across a collection of subgraphs with a particular structure. The depth values and hence the ranking results may vary with the subgraph of interest.",
+        "bbox": [
+            71,
+            63,
+            491,
+            306
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Subgraph isomorphism is necessary when calculating subgraph multiplex depth, but brings a heavy computational burden. The gMD restricted to isomorphous subgraphs, for example, two overlapped triangles, may be correlated, which brings dificulties in analyzing sMD. However, if we specify a single edge as the structure of interest, the computation and the theoretical analysis will be more feasible, as we will demonstrate.",
+        "bbox": [
+            71,
+            306,
+            491,
+            428
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3. Edgewise Multiplex Depth",
+        "text_level": 2,
+        "bbox": [
+            73,
+            452,
+            295,
+            468
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Edge is a ubiquitous type of subgraph in network analyses, and meanwhile, a simpler subgraph structure leads to a more distinguishable depth function. We therefore focus on the depth notion induced by this type of basic structure, denoted as the edgewise multiplex depth (eMD). This special case is a more intuitive soft version of gMD than those based on other substructures, as it relaxes the requirement for complete inclusion to allow partial inclusion. In the following discussion, we examine the interpretability and computational feasibility of the sample version eMD.",
+        "bbox": [
+            71,
+            474,
+            491,
+            626
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Following Definition 3, we denote the edge indicators for $\\mathcal { G } _ { [ N ] }$ as $\\overline { { H _ { i , j } } } ^ { \\mathrm { ~ \\scriptsize ~ = ~ } } \\left( V ^ { H _ { i , j } } , E ^ { H _ { i , j } } \\right)$ where $V ^ { H _ { i , j } } ~ = ~ \\{ i , j \\} ~ \\subset ~ [ N ]$ and $E ^ { H _ { i , j } } ~ = ~ \\big \\{ e ( i , j ) \\big \\} , ~ i ~ \\neq ~ j$ . The isomorphism set of $H _ { i , j }$ then consists of all possible edges. The structure weight can conveniently be expressed by a matrix $\\begin{array} { r } { \\begin{array} { r } { W \\ = \\ ( w _ { i j } ) } \\end{array} } \\end{array}$ with zero diagonal elements as $w _ { i j } ~ \\geq ~ 0$ and $\\textstyle \\sum _ { i \\neq j } w _ { i j } \\ = \\ { \\mathrm { ~ 1 ~ } }$ . The sample and population version edgewise multiplex depths are then defined as",
+        "bbox": [
+            71,
+            626,
+            491,
+            750
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne M D _ {n} ^ {K} (G; W) = \\sum_ {i \\neq j} w _ {i j} g M D _ {n} ^ {H _ {i, j}, K} (G | _ {H _ {i, j}}),\\tag{6}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            140,
+            758,
+            423,
+            794
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and",
+        "bbox": [
+            71,
+            806,
+            104,
+            821
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne M D _ {p r} ^ {K} (G; W) = \\sum_ {i \\neq j} w _ {i j} g M D _ {p r} ^ {H _ {i, j}, K} (G | _ {H _ {i, j}}).\\tag{7}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            140,
+            830,
+            423,
+            867
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The above forms (6) and (7) restrict the global multiplex depth into a single edge and then take the weighted average of depth values with structure weights. Another interpretation of eMD, a soft weighted version of gMD, is provided by rearranging (6) as",
+        "bbox": [
+            71,
+            878,
+            493,
+            955
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} e M D _ {n} ^ {K} (G; W) = \\sum_ {i \\neq j} w _ {i j}   g M D _ {n} ^ {H _ {i, j}, K} (G   | _ {H _ {i, j}}) \\\\ \\qquad = \\sum_ {i \\neq j} w _ {i j} \\sum_ {k = 2} ^ {K} \\left(\\binom {n} {k} ^ {- 1} \\sum_ {1 \\leq l _ {1} <   l _ {2} <   \\dots <   l _ {k} \\leq n} \\mathbf {1} \\left\\{G | _ {H _ {i, j}} \\in M \\left(G _ {l _ {1}} | _ {H _ {i, j}}, \\dots , G _ {l _ {k}} | _ {H _ {i, j}}\\right) \\right\\}\\right) \\\\ \\qquad = \\sum_ {k = 2} ^ {K} \\binom {n} {k} ^ {- 1} \\sum_ {1 \\leq l _ {1} <   l _ {2} <   \\dots <   l _ {k} \\leq n} \\sum_ {i \\neq j} w _ {i j} \\mathbf {1} \\\\ \\qquad \\left\\{G \\in E M _ {H _ {i, j}} \\left(G _ {l _ {1}}, \\dots , G _ {l _ {k}}\\right) \\right\\} \\\\ \\stackrel {{\\triangle}} {{=}} \\sum_ {k = 2} ^ {K} E M D _ {n} ^ {k} (G; W), \\end{array}\\tag{8}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            529,
+            63,
+            895,
+            299
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where",
+        "bbox": [
+            504,
+            306,
+            553,
+            321
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} E M _ {H _ {i, j}} \\left(G _ {l _ {1}}, \\ldots , G _ {l _ {k}}\\right) \\\\ = \\left\\{G (V, E): e (i, j) \\in \\left[ e ^ {d o w n} (i, j), e ^ {u p} (i, j) \\right] \\right\\} \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            566,
+            329,
+            870,
+            378
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "is the edgewise multiplex.",
+        "bbox": [
+            504,
+            383,
+            678,
+            398
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The weighted average of the indicators for a network locating into edgewise multiplexes ofers an intermediate measure between full inclusion and exclusion, that is, partial inclusion. Similarly, the component of the population version eMD with respect to the population pr(·) can be obtained as",
+        "bbox": [
+            503,
+            398,
+            924,
+            474
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE M D _ {p r} ^ {k} (G; W) = \\sum_ {i \\neq j} w _ {i j} p r \\left\\{G \\in E M _ {H _ {i, j}} \\left(\\mathbf {G} _ {1}, \\mathbf {G} _ {2}, \\dots , \\mathbf {G} _ {k}\\right) \\right\\}.\\tag{9}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            514,
+            481,
+            910,
+            518
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Comparing with (5), the complete inclusion in $M D _ { n } ^ { k } ( G )$ and $M D _ { p r } ^ { k } ( G )$ is replaced by partial inclusion weighted by structure weights in (8) and (9). When no prior information is available, a constant structure weight (i.e., $w _ { i j } ~ = ~ 1 / ( N \\times ( N - 1 ) ) )$ is recommended. Otherwise, nonuniform weights may be used to account for the importance of the interested network structures, similar to the idea of incorporating a weight function in the functional depth (Claeskens et al. 2014). We base our design of the structure weights for eMD on the principles of similarity scores proposed by Koutra et al. (2016), such as edge importance, edge submodularity, weight awareness, and focus awareness. In addition, the weighted depth in the functional data possesses the property of focus awareness (Claeskens et al. 2014). This leads us to develop typical structure weights in Table 1. Researchers may determine the type of structure weights according to practical applications.",
+        "bbox": [
+            503,
+            529,
+            924,
+            773
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Practically, the choice of K tradeofs the computation eficiency and ranking stability. Intuitively, a larger K marginally improves stability but demands additional computation. As suggested by Staerman et al. (2020), the depth-induced ranking does not change much with $K ,$ and small values of K are preferred in practice. Moreover, the expression at Line 2 in (8) indicates the computation of $\\mathrm { e M D } _ { n } ^ { K }$ degenerates into a one-dimensional sorting issue. Following Sun, Genton, and Nychka (2012), and inspired by the binary nature of the unweighted network, we develop a fast algorithm that dramatically improves the computational eficiency of $\\exp _ { n } ^ { K }$ . We provide details of the fast algorithms of $\\exp _ { n } ^ { K }$ for both unweighted and weighted networks in Section SII of the supplementary material. Simulation results will demonstrate that the estimation accuracy is not sensitive to the choice of K (See Sections 4.1 and 4.2). We also compare the computation cost in Section 4.3.",
+        "bbox": [
+            503,
+            772,
+            924,
+            955
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS",
+        "bbox": [
+            545,
+            30,
+            856,
+            44
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            862,
+            27,
+            883,
+            44
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "1629",
+        "bbox": [
+            893,
+            31,
+            923,
+            42
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8ecb3efa8c6fc095caf3a1f85182adb75440efa755994ffc901861e6bb11d3e.jpg",
+        "table_caption": [
+            "Table 1. Three types of structure weights : (i) equal weight, (ii) vertex weight, (iii) edge weight."
+        ],
+        "table_footnote": [
+            "NOTE: Given $\\mathcal { G } _ { n } \\in \\mathcal { G } _ { [ N ] } ,$ the non-diagonal elements of unnormalized weight are defined as follows according to the vertex centrality (Newman 2010) and edge centrality (Newman, Watts, and Strogatz 2002), and the diagonal elements are zero. Finally, the normalized structure weight is calculated by $W = \\widetilde { W } / \\| \\widetilde { W } \\| _ { 1 }$"
+        ],
+        "table_body": "<table><tr><td>Types</td><td>Basis</td><td>Details for Basis</td><td>Unnormalized weight $\\widetilde{W}_{ij}$  for  $i \\neq j$ </td></tr><tr><td>Equal weight</td><td>-</td><td>-</td><td>1</td></tr><tr><td>Vertex weight</td><td>vertex centrality for vertex  $i$  $\\{c_{i,l}\\}_{i\\in[N],l\\in[n]}$ </td><td>degree centrality, closeness centrality, betweenness centrality,and eigenvector centrality.</td><td> $\\frac{\\sum_{l=1}^{n}(c_{i,l}+c_{j,l})}{2n}$ </td></tr><tr><td>Edge weight</td><td>edge centrality for  $e(i,j)$  $\\{b_{ij,l}\\}_{i,j\\in[N],l\\in[n]}$ </td><td>the number of the shortest paths that go through the respective edge in the network.</td><td> $\\frac{\\sum_{l=1}^{n}b_{ij,l}}{\\#\\{I:b_{ij,l}\\neq 0\\}}$ </td></tr></table>",
+        "bbox": [
+            73,
+            78,
+            921,
+            237
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            289,
+            491,
+            351
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. Theoretical Properties",
+        "text_level": 2,
+        "bbox": [
+            73,
+            367,
+            271,
+            383
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This section shows that eMD satisfies the commonly desirable properties for statistical depth and derives asymptotic convergence for both depth values and the depth-induced central networks. We also establish the results for gMD in Section SV of the supplementary material. In this section, we interchangeably refer to a network with G or its adjacency matrix A, as they share the same superscript and subscript.",
+        "bbox": [
+            71,
+            391,
+            491,
+            500
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1. Depth Property",
+        "text_level": 2,
+        "bbox": [
+            73,
+            515,
+            223,
+            531
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zuo and Serfling (2000a) established that four typical properties should be satisfied by a depth function of multivariate data: (i) maximality at the center; (ii) monotonicity relative to the center; (iii) afine invariance; and (iv) vanishing at infinity. We examine the similar depth properties of eMD in weighted networks in this section. To properly depict the depth properties, it is necessary to introduce two assumptions in advance. Denote with $A _ { i j }$ and $p r _ { i j }$ the weight of the edge between i and j and its distribution, respectively.",
+        "bbox": [
+            71,
+            537,
+            491,
+            676
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Assumption 1. $p r _ { i j }$ is tight for all $i , j ,$ that is, $P r _ { i j } ( | A _ { i j } | \\geq M )  0$ as $M  \\infty ,$ , and absolutely continuous, that is, there exists a probability density function $f _ { i j }$ such that $\\begin{array} { r } { p r _ { i j } ( B ) \\ = \\ \\int _ { B } f _ { i j } ( x ) d x } \\end{array}$ for any measurable set B in <sup>R</sup>.",
+        "bbox": [
+            71,
+            685,
+            491,
+            750
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Assumption 2. Denote $G ^ { c } = ( V , E ^ { c } )$ with adjacency matrix $A ^ { c }$ . Suppose $P ^ { r }$ is symmetric with respect to $G ^ { c }$ , that is, $( A _ { i j } - A _ { i j } ^ { c } )$ and $- ( A _ { i j } - A _ { i j } ^ { c } )$ have the same distribution.",
+        "bbox": [
+            71,
+            758,
+            488,
+            809
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Assumptions 1 and 2 require the marginal distribution of the edge weight to be absolutely continuous, tight, and symmetric to the central network. These assumptions are satisfied by networks derived from the Gaussian graphical model (Liu 2013; Ren et al. 2015) and the Riemannian Gaussian distribution for symmetric positive definite matrices (Zanini et al. 2016). For example, brain correlation networks from multiple subjects typically exhibit Gaussian distributions centered around a common network.",
+        "bbox": [
+            71,
+            820,
+            491,
+            943
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Theorem 1 (Depth property of eMD for weighted networks). Under Assumptions 1 and 2 and $w _ { i j } > 0 ;$ , we have",
+        "bbox": [
+            504,
+            289,
+            921,
+            320
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) Maximality at the center. If the density f is further positive in a neighborhood of the center of $G ^ { c }$ , then $e M D _ { p r } ^ { K } ( \\cdot ; W )$ is uniquely maximized at $G ^ { c } ;$",
+        "bbox": [
+            504,
+            320,
+            921,
+            364
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(b) Monotonicity relative to the center. Given $G \\in { \\mathcal { G } } _ { [ N ] }$ and a scaling parameter $\\alpha > 0 ,$ define $G ^ { \\alpha }$ as a network whose adjacency matrix is α $\\prime ( A ^ { G } - A ^ { c } )$ , then $e M D _ { p r } ^ { K } \\left( G ^ { \\alpha } ; W \\right)$ is a monotone nonincreasing function with respect to α;",
+        "bbox": [
+            504,
+            364,
+            924,
+            424
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(c) Vanishing at infinity. su $\\ P _ { \\| A ^ { G } \\| _ { \\infty } \\geq M } e M D _ { p r } ^ { K } ( G ; W ) ~ \\to ~ 0$ and $\\begin{array} { r } { \\operatorname* { s u p } _ { \\| A ^ { G } \\| _ { \\infty } \\geq M } e M D _ { n } ^ { K } ( G ; W ) \\stackrel { a . s . } {  } 0 , \\mathrm { a s } M  \\infty ; } \\end{array}$",
+        "bbox": [
+            504,
+            424,
+            923,
+            464
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(d) Afine invariance.",
+        "bbox": [
+            524,
+            462,
+            669,
+            476
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(d)-(i) Consider the transformation $T : \\mathcal { G } _ { [ N ] } \\mapsto \\mathcal { G } _ { [ N ] }$ . Let the adjacency matrix of G and T(G) be A and $C \\odot A + D ,$ respectively, where $C , D \\in \\mathbb { R } ^ { N \\times N }$ and \u0011 is the dot product. If $C _ { i j } \\neq 0$ , then eM ${ \\cal D } _ { n } ^ { K } ( G ) = e M { \\cal D } _ { n } ^ { K , T ( { \\mathcal G } _ { n } ) } ( T ( G ) )$ and $e M D _ { p r } ^ { K } ( G ) =$ $e M D _ { p r o T ^ { - 1 } } ^ { K } ( T ( G ) ) _ { \\mathrm { : } }$",
+        "bbox": [
+            504,
+            476,
+            924,
+            559
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$( \\dot { d } ) \\ – ( \\dot { \\iota } i )$ Consider $\\begin{array} { r l r } { \\pi } & { { } : } & { [ N ] \\quad \\mapsto \\quad [ N ] , } \\end{array}$ the permutation transformation of vertices, which induces a transformation $\\begin{array} { r c c c c l } { \\pi ^ { \\mathcal { G } } } & { : } & { \\mathcal { G } _ { [ N ] } } & { \\mapsto } & { \\mathcal { G } _ { [ N ] } } \\end{array}$ and $\\begin{array} { r l r } { \\pi ^ { W } } & { { } : } & { \\mathbb { R } ^ { N \\times N } \\quad \\mapsto \\quad \\mathbb { R } ^ { N \\times N } , } \\end{array}$ Then, $e M D _ { n } ^ { K } ( G ; W ) ~ = ~ e M D _ { n } ^ { K , \\pi ^ { \\mathcal { G } } ( { \\mathcal G } _ { n } ) } \\left( \\pi ^ { \\mathcal { G } } \\left( G \\right) ; \\pi ^ { W } ( W ) \\right)$ and $e M D _ { p r } ^ { K } ( G ; W ) = e M D _ { p r \\circ \\left( \\pi ^ { \\mathcal { G } } \\right) ^ { - 1 } } ^ { K } \\left( \\pi ^ { \\mathcal { G } } \\left( G \\right) ; \\pi ^ { W } ( W ) \\right)$",
+        "bbox": [
+            504,
+            558,
+            923,
+            648
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Theorem 1 formally defines four depth properties of the eMD. The afine invariance property has two aspects: Theorem $1 ( d ) – ( i )$ states that applying the same edgewise afine transformation to all networks does not afect the value of eMD; Theorem $1 ( d ) – ( i i )$ addresses the network structure: eMD remains unchanged in the case of changing the labels of vertices. As depicted in Theorem S2, gMD possesses similar depth properties for weighted networks, where “maximality at center,” “monotonicity relative to the center,” and “vanishing at infinity” properties are extended from the modified band depth for functional data (López-Pintado and Romo 2009).",
+        "bbox": [
+            503,
+            657,
+            924,
+            825
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For unweighted networks, we first establish the four depth properties of the gMD in Theorem S1 under Assumption S1. Given that unweighted networks are generated by perturbing the existence of edges relative to a central network $G ^ { c } { } _ { i }$ , Assumption S1 requires the independence of edge perturbations and the specified probabilities of these perturbations, which can be satisfied by a collection of noisy networks (Chang, Kolaczyk, and Yao 2020). Note that the independence of edges is a quite common assumption in popular network models, such as the stochastic block model (Wang and Wong 1987; Zhang, Sun, and Li 2020) and the latent space model (Ma, Ma, and Yuan 2020; Hof, Raftery, and Handcock 2002). This assumption is also crucial for proving the convergence of gMD and eMD for unweighted networks (Theorems 2 and S3). Particularly, the afine invariance property $1 ( d ) – ( i )$ for unweighted networks denotes flipping the existence of edges for some selected vertex pairs. For example, suppose $( i _ { 0 } , j _ { 0 } )$ is selected, we remove $e ( i _ { 0 } , j _ { 0 } )$ from E if $e ( i _ { 0 } , j _ { 0 } ) \\in E .$ , or add $e ( i _ { 0 } , j _ { 0 } )$ into E if $e ( i _ { 0 } , j _ { 0 } ) \\notin E$",
+        "bbox": [
+            503,
+            825,
+            924,
+            948
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "1630",
+        "bbox": [
+            75,
+            31,
+            104,
+            42
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            112,
+            27,
+            133,
+            44
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "M. ZHANG, L. DENG, AND W. DAI",
+        "bbox": [
+            140,
+            30,
+            310,
+            44
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            63,
+            491,
+            214
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Since eMD can be viewed as a weighted average of gMD as indicated in Section 2.3, the generalizations from gMD to eMD for both weighted and unweighted networks are straightforward, which has been addressed for the similar generalization of multivariate data in Claeskens et al. (2014). We present a detailed proof for weighted networks in Section SVI.2 and omit that for unweighted networks for simplicity.",
+        "bbox": [
+            71,
+            214,
+            491,
+            321
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2. Convergence",
+        "text_level": 2,
+        "bbox": [
+            73,
+            337,
+            205,
+            353
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We establish convergence in three main respects: (i) the pointwise convergence of gMD and eMD; (ii) the uniform convergence of eMD on $\\mathcal { G } _ { [ N ] } ;$ and (iii) the consistency of the estimated deepest network. As MD and eMD in (4) and (8) are U-statistics with (weighted) indicating functions as kernels, we can derive their pointwise convergences.",
+        "bbox": [
+            71,
+            359,
+            491,
+            452
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Proposition 1. Suppose $G _ { 1 } , G _ { 2 } , \\ldots , G _ { n }$ are n samples independently generated from a probability distribution for unweighted or weighted networks. Fix $G \\in \\mathcal G _ { [ N ] }$ , then $g M D _ { n } ^ { K } ( G ) \\quad { \\xrightarrow { a . s . } }$ $g M D _ { p r } ^ { K } ( G )$ as $n  \\infty$ , and similarly, $\\begin{array} { r l } { e M D _ { n } ^ { K } ( G ; W ) } & { { } \\xrightarrow { a . s . } } \\end{array}$ $e M D _ { p r } ^ { K } ( G ; W ) \\mathrm { a s } n \\to \\infty$",
+        "bbox": [
+            71,
+            458,
+            490,
+            546
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2 (eMD for unweighted and weighted networks). Suppose $G _ { 1 } , G _ { 2 } , \\ldots , G _ { n }$ are n samples independently generated from a probability distribution for unweighted or weighted networks. Then,",
+        "bbox": [
+            71,
+            555,
+            490,
+            614
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) $\\begin{array} { r } { \\operatorname* { s u p } _ { G \\in \\mathcal { G } _ { [ N ] } } \\vert e M D _ { n } ^ { K } ( G ; W ) - e M D _ { \\mathfrak { p } r } ^ { K } ( G ; W ) \\vert \\overset { a . s . } { \\longrightarrow } 0 , \\mathrm { a s } n \\longrightarrow } \\end{array}$ ∞;",
+        "bbox": [
+            73,
+            614,
+            488,
+            646
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(b) If $\\dot { } w _ { i j } > 0$ and $e M D _ { p r } ^ { K } ( \\cdot ; W )$ is uniquely maximized at $G ^ { c }$ , let",
+        "bbox": [
+            71,
+            646,
+            488,
+            676
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde {\\mathbf {G}} _ {n} = \\underset {G \\in \\mathcal {G} _ {[ N ]}} {\\arg \\max} e M D _ {n} ^ {K} (G; W),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            184,
+            686,
+            377,
+            719
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "then we have ${ \\widetilde { \\mathbf { G } } } _ { n } \\ { \\xrightarrow { a . s . } } \\ G ^ { c }$ , as n → ∞;",
+        "bbox": [
+            73,
+            732,
+            321,
+            750
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(c) If $w _ { i j } > 0$ and $e M D _ { p r } ^ { K } ( \\cdot ; W )$ is uniquely maximized at $G ^ { c }$ , let",
+        "bbox": [
+            71,
+            750,
+            488,
+            779
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widehat {\\mathbf {G}} _ {n} = \\underset {G \\in \\{\\mathbf {G} _ {1}, \\mathbf {G} _ {2}, \\dots , \\mathbf {G} _ {n} \\}} {\\arg \\max} e M D _ {n} ^ {K} (G; W),\\tag{10}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            163,
+            789,
+            398,
+            819
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "then we have ${ \\widehat { \\bf G } } _ { n } \\stackrel { a . s . } { \\longrightarrow } G ^ { c } , \\mathrm { a s } n \\longrightarrow \\infty .$",
+        "bbox": [
+            73,
+            832,
+            320,
+            851
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2 establishes the uniform convergence for eMD and the consistency of the estimated center defined in (10). The independent network samples can be generated from many unweighted network models, such as the Erdos-Rényi model˝ (Gilbert 1959), stochastic block model (Wang and Wong 1987; Zhang, Sun, and Li 2020), and a collection of noisy networks (Chang, Kolaczyk, and Yao 2020); meanwhile, weighted connectivity networks for each subject in brain neuroscience are independent samples (Brands $2 0 1 3 ;$ Zhang, Sun, and Li 2023). A parallel result for gMD is given in Theorem S3, where the result for weighted networks is a direct corollary of Theorem 2 in López-Pintado and Romo (2009).",
+        "bbox": [
+            71,
+            864,
+            491,
+            955
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            63,
+            924,
+            152
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We require the structure weight $w _ { i j }$ to be strictly positive to ensure the identifiability of the central network. The condition of unique maximization is standard when identifying a representative element for a distribution or ensemble (Ziezold 1977; Zuo and Serfling 2000b; López-Pintado and Romo 2006), which is guaranteed by the maximality at center for weighted (Theorem 1(a)) and unweighted networks (Theorem S1(a)). In a related study for networks, Kolaczyk et al. (2020) discussed the geometric requirements for the uniqueness of the Fréchet mean corresponding to the unlabeled and undirected weighted networks. On the other hand, when $\\mathrm { e M D } _ { p r } ^ { K } ( \\cdot ; W )$ is maximized at several networks, named a central network set, the estimated center will locate into the set almost surely. In practice, we recommend identifying several, rather than a single, deepest network to comprehensively analyze the property of network ensemble; see Section 5 for details. The network structure provides flexible weights according to practical necessities. If the weights of interested structures are continuous with respect to edge weights, the depth properties and consistency still hold, according to the continuous mapping theorem.",
+        "bbox": [
+            503,
+            152,
+            924,
+            455
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Finally, our theoretical results can be naturally extended to sparse weighted networks with consistently existent edges. We first define a subgraph indicator as an unweighted network where an edge exists between two vertices if it consistently appears in these sparse weighted networks. The depth properties and convergence theories for weighted networks can then be adapted to sparse weighted networks by restricting them to this subgraph indicator.",
+        "bbox": [
+            503,
+            455,
+            924,
+            578
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Simulation Studies",
+        "text_level": 2,
+        "bbox": [
+            504,
+            601,
+            678,
+            616
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this section, we conduct simulations to assess the finite sample performance of $\\exp _ { n } ^ { 2 }$ (denoted as eMD) and $\\exp _ { n } ^ { 3 }$ (denoted as $\\mathrm { e M D } ^ { 3 } )$ for both unweighted and weighted networks. For the unweighted network, we focus on the directed case, whereas for the weighted network, we consider the undirected case. We compare it to the Fréchet mean, a popular tool for data ranking and center estimation. However, the sample space for unweighted networks is discrete, so finding the conventional Fréchet mean may be computationally NP-hard. This supports the selection of the following restricted Fréchet mean defined by Ginestet (2012), as this dramatically reduces the computational complexity. The restricted Fréchet mean ensures the estimated center is an existent network, which is similar to eMD.",
+        "bbox": [
+            503,
+            625,
+            924,
+            823
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Definition 4 (Restricted Fréchet mean). Let $\\mathcal { G } _ { n } ~ \\subset ~ \\mathcal { G } _ { [ N ] }$ be a network ensemble and let $d ( \\cdot , \\cdot ) : \\mathcal { G } _ { [ N ] } \\times \\mathcal { G } _ { [ N ] } \\to$ <sup>R</sup> be a metric on $\\mathcal { G } _ { [ N ] }$ . The set",
+        "bbox": [
+            504,
+            834,
+            924,
+            880
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ^ {m} = \\arg \\min _ {G \\in \\mathcal {G} _ {n}} \\sum_ {i = 1} ^ {n} \\left[ d ^ {2} (G _ {i}, G) \\right],\\tag{11}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            607,
+            888,
+            820,
+            929
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "is called the restricted Fréchet mean set of ${ \\mathcal { G } } _ { n }$",
+        "bbox": [
+            504,
+            939,
+            807,
+            955
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS",
+        "bbox": [
+            545,
+            30,
+            856,
+            44
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            862,
+            27,
+            883,
+            44
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "1631",
+        "bbox": [
+            893,
+            31,
+            921,
+            42
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/389cff31bd1b1a03cf75dd533ab64a334794488ea7a95241b412a55211bb4f1c.jpg",
+        "table_caption": [
+            "Table 2. Three contaminated settings with \u0013rn\u0014 outliers. n<sub>1</sub> and $n _ { 2 }$ are the sample sizes of outliers from other models, satisfying n<sub>1</sub> $- n _ { 2 } = \\lceil r n \\rceil$"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>model</td><td>parameters</td><td>sample size</td></tr><tr><td rowspan=\"3\">Scenario I</td><td>SBM</td><td> $p_{in} = 0.16, p_{btw} = 0.075, p_{in}^{(per)} = 0.05, p_{btw}^{(per)} = 0.02$ </td><td> $n - n_1 - n_2$ </td></tr><tr><td>SBM</td><td> $p_{in} = 0.5, p_{btw} = 0.2, p_{in}^{(per)} = 0.05, p_{btw}^{(per)} = 0.02$ </td><td> $n_1$ </td></tr><tr><td>ER</td><td> $p = 0.5, p^{(per)} = 0.1$ </td><td> $n_2$ </td></tr><tr><td rowspan=\"2\">Scenario II</td><td>SBM</td><td> $p_{in} = 0.16, p_{btw} = 0.075, p_{in}^{(per)} = 0.05, p_{btw}^{(per)} = 0.02$ </td><td> $n - [rn]$ </td></tr><tr><td>SW</td><td> $d = 3, p_{re} = 0.5, p_{re}^{(per)} = 0.01$ </td><td> $[rn]$ </td></tr><tr><td rowspan=\"3\">Scenario III</td><td>SBM</td><td> $p_{in} = 0.16, p_{btw} = 0.075, p_{in}^{(per)} = 0.05, p_{btw}^{(per)} = 0.02$ </td><td> $n - n_1 - n_2$ </td></tr><tr><td>RGG</td><td> $r = 0.175, \\sigma^{(per)} = 0.2$ </td><td> $n_1$ </td></tr><tr><td>ER</td><td> $p = 1$ </td><td> $n_2$ </td></tr></table>",
+        "bbox": [
+            71,
+            78,
+            919,
+            231
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We consider both the Hamming distance (Ham) and Frobenius distance (Frob) for calculating the restricted Fréchet mean, which are both defined in Section SI of the supplementary material. The two distances are equivalent for unweighted networks, so only Ham is used. In short, we define the estimated center as in (10) for eMD and (11) for Fréchet mean.",
+        "bbox": [
+            71,
+            258,
+            491,
+            349
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1. Unweighted Networks",
+        "text_level": 2,
+        "bbox": [
+            73,
+            373,
+            269,
+            388
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the first simulation, we compare the robustness of the center estimation for eMD and Ham with four common models: the Erdos-Rényi model (ER) (Erd ˝ os and Rényi ˝ 1960), random geometric graph model (RGG) (Penrose 2003), stochastic block model (SBM) (Holland, Laskey, and Leinhardt 1983), and small world model (SW) (Watts and Strogatz 1998). For the ER model, the probability that an edge appears is set as p. RGG is a proximity graph defined on the unit square, and the radius of the ball is set to r. We set the number of blocks as 3 with random block size for SBM, and denote the probabilities of the within- and between-block edges as $\\ b { p } _ { i n }$ and $\\textcircled { P } b t w ;$ , respectively. For the SW model, we set the degree of the lattice as d and the probability of rewiring as $\\mathit { p } _ { r e } .$ To guarantee unimodality, we first generate a central network $G ^ { c }$ via one of these models and then obtain a network ensemble by perturbing $G ^ { c } .$ . We apply model-specific strategies to perturb the central network. Thus, for the ER model, we independently flip each edge by probability $p ^ { ( p e r ) }$ for RGG, we add independent Gaussian random noise with standard deviation $\\sigma ^ { ( p e \\bar { r } ) }$ to the locations of vertices; for SBM, we independently flip the within- and between-block edges with probabilities $p _ { i n } ^ { ( p e r ) }$ and $\\boldsymbol { p } _ { b t w } ^ { ( p e r ) }$ ; and for the SW model, we independently rewire the central network with the probability $p _ { r e } ^ { ( p e r ) }$",
+        "bbox": [
+            71,
+            396,
+            491,
+            750
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We consider networks with $N ~ = ~ 3 0$ and 200 vertices and sample sizes of $n = 5 0 , 1 0 0 , 2 0 0 , . . . , 5 0 0$ . The result of $N = 2 0 0$ is similar to that of $ { \\boldsymbol { N } } \\ = \\ 3 0$ and hence is deferred to Section SIII.1 of the supplementary material. Three contaminated scenarios are investigated, with the bulk of data from the SBM model and outliers from other models. The details are given in Table 2. For each run, we estimate the central network using eMD and Ham. The estimation accuracy (EA) is evaluated by the weighted hamming distance between the true center (G<sup>c</sup>) and the estimated center $( \\hat { G } ^ { c } )$",
+        "bbox": [
+            71,
+            750,
+            491,
+            902
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm{EA} (G ^ {c}, \\hat {G} ^ {c}) = \\sum_ {i \\neq j} ^ {N} w _ {i j} \\left| A _ {i j} ^ {c} - \\hat {A} _ {i j} ^ {c} \\right|,\\tag{12}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            169,
+            904,
+            393,
+            948
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $W = ( w _ { i j } )$ is the structure weight matrix. The estimated center with a smaller EA is closer to the true center and hence exhibits better performance. We repeat each scenario 200 times. The average values and confidence intervals of EAs are shown in Figure 2 and the boxplot of EAs is in Figure S3 of the supplementary material. We also consider clean models in which the networks are generated from a single model. The performance of the two methods is relatively similar under clean models and is thus omitted.",
+        "bbox": [
+            503,
+            257,
+            924,
+            393
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As illustrated in Figure 2, the choice of $K \\ = \\ 2 \\ \\mathrm { ( e M D ) }$ or $K \\ = \\ 3 \\ \\mathrm { ( e M D ^ { 3 } ) }$ yields negligible diferences in performance. Therefore, we focus on $K = 2$ for brevity and clarity in the subsequent discussion and simulations for unweighted networks. Both eMD and Ham become more accurate as the sample size increases. A comparison shows that eMD clearly performs better in terms of the lower EA in estimating the center network. eMD is also stable when facing data polluted by diverse outliers of varying levels of contamination. In contrast, Ham is sensitive to outliers because the estimation bias becomes influential as the contamination ratio increases.",
+        "bbox": [
+            503,
+            393,
+            924,
+            560
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We use the second simulation to examine the efectiveness of the structure weight for eMD when particular network structural properties, referred to as important modules, are the main focus of this study. Two models are considered here. The first is the preferential attachment (PA) model proposed by Barabási and Albert (1999), which is commonly used to mimic the rich get richer phenomenon. We first generate the central network $G ^ { c }$ by sequentially adding N vertices and labeling them from 1 to N according to their order of appearance. In each step, a new vertex connects to one existing vertex with the probability proportional to $d _ { k } + 1$ , where $d _ { k }$ is the degree of vertex k. We then construct the network samples ${ \\mathcal { G } } _ { n }$ in the following perturbation steps. First, we randomly select one vertex k, $3 ~ \\leq ~ k ~ \\leq ~ N ,$ which is connected to a vertex that appeared earlier. Then, we reconnect the vertex k to another previously added vertex. We repeat the above perturbation steps until the number of reconnected edges reaches \u001310%N\u0014.",
+        "bbox": [
+            503,
+            560,
+            924,
+            816
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The second model is based on blog network data collected by Gopal (2007). This represents a snapshot of the citation pattern among 146 unique blogs related to AIDS patients and their support networks over a randomly selected three-day period in August 2005. A directed edge from one blog to another indicates that the former has a link to the latter on its web page. This blog network consists of 146 vertices and 187 edges. We denote the blog network as the central network $G ^ { c }$ and generate ${ \\mathcal { G } } _ { n }$ by randomly removing 19 (\u001310%N\u0014) existing edges of G<sup>c</sup>. For both",
+        "bbox": [
+            503,
+            816,
+            924,
+            955
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "1632",
+        "bbox": [
+            75,
+            31,
+            104,
+            42
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            112,
+            27,
+            133,
+            44
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "M. ZHANG, L. DENG, AND W. DAI",
+        "bbox": [
+            140,
+            30,
+            310,
+            44
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "chart",
+        "img_path": "images/1fcbb41fae04f8a744026f5cd63e4c021134402bf7f0a7edf9698914f9c019d6.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "bbox": [
+            163,
+            61,
+            844,
+            324
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/9237a2ae7800eb56ab44656d39bd51122000aad82a9ea2e0110cf700b609aa9c.jpg",
+        "table_caption": [
+            "Figure 2. Estimation accuracy (EA) and confidence interval of center estimation for eMD, eMD<sup>3</sup>, and Ham using equal IS under Scenarios I, II, and III. We perform the procedure 200 times for each n (50, 100, 200, . . ., 500) and N = 30 for each scenario.",
+            "Table 3. The means and standard deviations of EAs for eMD and Ham using equal, vertex, and edge structure weights."
+        ],
+        "table_footnote": [
+            "NOTE: For example, “EA with vertex/edge weight” represents the estimation accuracy with vertex/edge weight matrix defined in (12). We consider $N = 1 0 0 ( \\mathsf { P A } _ { 1 0 0 } ) ,$ 200 (PA ) and n = 100 for the PA model; and N = 146 and n = 100 for the Blog model. Marked in boldface are those achieving the best evaluation criteria in each setting."
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\" colspan=\"2\"></td><td colspan=\"2\">equal weight</td><td colspan=\"2\">vertex weight</td><td colspan=\"2\">edge weight</td></tr><tr><td>Ham</td><td>eMD</td><td>Ham</td><td>eMD</td><td>Ham</td><td>eMD</td></tr><tr><td rowspan=\"3\">EA with vertex weight</td><td> $PA_{100}$ </td><td>0.0027(0.00051)</td><td>0.0020(0.00047)</td><td>0.0030(0.00047)</td><td>0.0016(0.00019)</td><td>-</td><td>-</td></tr><tr><td> $PA_{200}$ </td><td>0.0013(0.00021)</td><td>0.0010(0.00017)</td><td>0.0014(0.00047)</td><td>0.0009(0.00007)</td><td>-</td><td>-</td></tr><tr><td>Blog</td><td>0.0015(0.00016)</td><td>0.0015(0.00017)</td><td>0.0018(0.00014)</td><td>0.0012(0.00008)</td><td>-</td><td>-</td></tr><tr><td rowspan=\"3\">EA with edge weight</td><td> $PA_{100}$ </td><td>0.0148(0.0067)</td><td>0.0122(0.0062)</td><td>-</td><td>-</td><td>0.0082(0.0021)</td><td>0.0068(0.0009)</td></tr><tr><td> $PA_{200}$ </td><td>0.0152(0.0082)</td><td>0.0129(0.0057)</td><td>-</td><td>-</td><td>0.0083(0.0016)</td><td>0.0072(0.0007)</td></tr><tr><td>Blog</td><td>0.0243(0.0083)</td><td>0.0242(0.0077)</td><td>-</td><td>-</td><td>0.0314(0.0061)</td><td>0.0143(0.0008)</td></tr></table>",
+        "bbox": [
+            73,
+            409,
+            919,
+            593
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "chart",
+        "img_path": "images/9fb32318ea7eda8253479a7e6f9d196f7e5c6cb2cfbabe873a1ecac07c2e4cfd.jpg",
+        "content": "",
+        "chart_caption": [
+            "(a) PA, N = 100"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            102,
+            633,
+            357,
+            766
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "chart",
+        "img_path": "images/503f4514c2d7b577ab8c4c6a729b775041ba34b6527f476c3e19c2df6329ec7c.jpg",
+        "content": "",
+        "chart_caption": [
+            "(b) PA, N = 200"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            369,
+            633,
+            627,
+            766
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "chart",
+        "img_path": "images/b43d3b24c4bffa197142608b454ea6d6276f517ca081b3ca3f193b568a28bb47.jpg",
+        "content": "",
+        "chart_caption": [
+            "(c) Blog, N = 146",
+            "Figure 3. The boxplot of the average ranks of the samples with or without important modules with $\\begin{array} { r } { n = 1 0 0 . { } ^ { \\prime \\prime } \\mathsf { H a m } } \\end{array}$ \\_equal” denotes Ham using equal IS and the remaining notations are similar. The purple (right) and green (left) boxes denote networks with and without the important modules, respectively."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            638,
+            633,
+            893,
+            766
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PA and blog models, we introduce outliers from the ER model with $( p , p ^ { p e r } ) = ( 0 . 5 , 0 . 1 )$ and consider 10% outliers in Table 3 and Figure 3.",
+        "bbox": [
+            71,
+            844,
+            491,
+            888
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 3 gives the results of eMD and Ham using three structure weights for estimating the center. For the PA model, eMD provides uniformly better results than Ham in all cases. In addition, eMD with vertex and edge weight outperforms the one using equal weight, but this is not the case for Ham as it performs better using equal weight. For blog networks, the two estimators are comparable when equipped using equal weight, but eMD outperforms Ham when we replace the equal weight with the vertex or edge weight. This indicates that using neither vertex nor edge weight improves the performance of Ham. In general, eMD is more robust and better captures the structural features when considering the appropriate structure weights.",
+        "bbox": [
+            71,
+            888,
+            491,
+            950
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            844,
+            924,
+            950
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS",
+        "bbox": [
+            545,
+            30,
+            857,
+            44
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            864,
+            27,
+            885,
+            44
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "1633",
+        "bbox": [
+            893,
+            31,
+            923,
+            42
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            63,
+            491,
+            93
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Vertices with higher degrees are more influential, which inspires us to define the important modules for the two models. The important module in the PA model is the subgraph composed of the vertices with degrees greater than five and the edges connecting them in the center network $G ^ { c }$ . For the blog networks, the threshold for the vertices degrees is set at 20. As shown in Figure 3, we assign deeper networks with larger ranks and compare eMD and Ham using the average ranks of the networks with or without the important modules. The results of the two models are similar and both confirm the usefulness of the structure weight. We find almost no diference between the ranking results of the two groups with the equal weight for either Ham or eMD. With the vertex weight, the ranking results reveal weak diferences for eMD and remain comparable for Ham. With the edge weight, the diferences between the two groups are significant for both methods. The networks without the important module are assigned with smaller rankings, confirming the assumption that they outlie to a greater degree. These results indicate that the edge weight is more efective than the other options in capturing the important module of interest. For other practical implementations, the weight should be adapted for the specific tasks.",
+        "bbox": [
+            71,
+            93,
+            493,
+            426
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2. Weighted Networks",
+        "text_level": 2,
+        "bbox": [
+            73,
+            465,
+            251,
+            481
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The simulation on weighted networks evaluates the finite sample performance of eMD and eMD<sup>3</sup> from two perspectives: robustly extracting the central network under various contamination settings and accurately detecting outliers. We compare eMDs to Ham and Frob as the two aforementioned distances are not identical for weighted networks. We consider seven weighted network models from two major sources: sampling the adjacency matrix directly (Models 1–5) and fitting the covariance matrix as the adjacency matrix (Models 6 and 7). We set the diagonal elements of all networks to 0 and $A _ { i j } = A _ { j i }$ in this part.",
+        "bbox": [
+            71,
+            489,
+            491,
+            642
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Model 1. We first generate the central network A<sup>c</sup> by sampling each edge $A _ { i j } ^ { c }$ from $U ( - 0 . 5 , 0 . 5 )$ independently. After getting $A ^ { c } ,$ , we independently sample $A _ { i j }$ from $N ( A _ { i j } ^ { c } , 0 . 1 ^ { 2 } )$",
+        "bbox": [
+            71,
+            641,
+            490,
+            691
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Model 2. We follow the procedure in Model 1 but let $A _ { i j } ^ { c }$ <sup>iid</sup>∼ U(15, 20) and $A _ { i j } \\stackrel { \\mathrm { i i d } } { \\sim } N ( A _ { i j } ^ { c } , 0 . 1 ^ { 2 } )$",
+        "bbox": [
+            73,
+            696,
+            490,
+            739
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Model 3. We follow the procedure in Model 1 but let $A _ { i j } ^ { c }$ <sup>iid</sup>∼ U(0.5, 1.5) and $A _ { i j } \\stackrel { \\mathrm { i i d } } { \\sim } N ( A _ { i j } ^ { c } , 0 . 5 ^ { 2 } )$",
+        "bbox": [
+            73,
+            744,
+            490,
+            786
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Model 4. We follow the procedure in Model 2, randomly choose 10 rows and the corresponding columns from the adjacency matrix, and multiply them with 10.",
+        "bbox": [
+            71,
+            786,
+            491,
+            832
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Model 5. We follow the procedure in Model 2, randomly choose 5 rows and the corresponding columns from the adjacency matrix, and multiply them with 100.",
+        "bbox": [
+            71,
+            832,
+            491,
+            878
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Model 6. We consider the central network $A ^ { c }$ with $A _ { i j } ^ { c } = 2$ if $i = j ; 1$ , otherwise. Then, we independently generate 100N samples from an N dimensional normal distribution $\\mathcal { N } ( \\mathbf { 0 } , ( A ^ { c } ) ^ { - 1 } )$ . Finally, we obtain the inverse of the sample covariance matrix as one network sample.",
+        "bbox": [
+            71,
+            877,
+            491,
+            955
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/aea5f682146b9d7fbebc524b9342c0629488708a36fc6a19fe352cbf0b0093a2.jpg",
+        "table_caption": [
+            "Table 4. Three settings with \u0013rn\u0014 outliers. n and n are the sample sizes of outliers from other models, satisfying $n _ { 1 } + n _ { 2 } = \\lceil r n \\rceil$ , where $n _ { 1 } \\sim U \\{ 1 , \\dot { \\lceil } r n \\rceil - 1 \\}$"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Model</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>Setting I</td><td> $n - n_{1} - n_{2}$ </td><td> $n_{1}$ </td><td> $n_{2}$ </td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Setting II</td><td>0</td><td> $n - n_{1} - n_{2}$ </td><td>0</td><td> $n_{1}$ </td><td> $n_{2}$ </td><td>0</td><td>0</td></tr><tr><td>Setting III</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td> $n - \\lceil rn \\rceil$ </td><td> $\\lceil rn \\rceil$ </td></tr></table>",
+        "bbox": [
+            504,
+            90,
+            921,
+            150
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Model 7. We consider the central network $A ^ { c }$ defined in Model 6 and two matrices $A ^ { \\prime }$ and $A ^ { \\prime \\prime }$ , where $A _ { i j } ^ { \\prime } = 1 , \\mathrm { i f } i = j ;$ $A _ { i j } ^ { \\prime } = 0 . 5 , \\mathrm { i f } | i - j | = 1 ; A _ { i j } ^ { \\prime } = 0 . 2 5 , \\mathrm { i f } | i - j | = 2 ;$ and 0, otherwise; $A _ { i j } ^ { \\prime \\prime } = 1 , \\mathrm { i f } i = j ; A _ { i j } ^ { \\prime \\prime } = 0 . 5 , \\mathrm { i f } | i - j | = 1 ; A _ { 1 N } ^ { \\prime \\prime } = A _ { N 1 } ^ { \\prime \\prime } = 0 . 4 ;$ and 0, otherwise. Then, we generate 70N samples from $\\mathcal { N } ( \\mathbf { 0 } , ( A ^ { c } ) ^ { - 1 } )$ , 20N samples from $\\bar { \\mathcal { N } ( \\mathbf { 0 } , ( A ^ { \\prime } ) ^ { - 1 } ) }$ and another 10N samples from $\\mathcal { N } ( \\mathbf { 0 } , ( A ^ { \\prime \\prime } ) ^ { - 1 } )$ ) independently. Finally, we obtain the inverse of the sample covariance matrix as one network sample.",
+        "bbox": [
+            503,
+            185,
+            924,
+            314
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To assess the center estimation ability, we introduce three settings with diferent contamination levels. Settings I, II, and III are mainly consist of samples from Models 1, 2, and $^ { 6 , }$ respectively, with the introduction of outliers as outlined in Table 4. We consider networks with $N = 3 0$ and 200 vertices and sample sizes of $n = 5 0 , 1 0 0 , 2 0 0 , . . . , 5 0 0$ . The result for $N = 2 0 0$ is similar to that of $N = 3 0$ and is deferred to Section SIII.1 of the supplementary material. For $N = 3 0$ , the mean and confidence interval of EAs are shown in Figure 4 and the boxplot of EAs are displayed in Figure S4 of the supplementary material. Similar to unweighted networks, we focus on $K \\ = \\ 2$ in the subsequent discussion and simulations for weighted networks because the eMD or $\\mathrm { e M D } ^ { 3 }$ perform almost identically. The first row is for clean datasets, that is, $r = 0 .$ . As sample size n increases, the estimated centers for the three methods all converge to the real center because EAs tend to be zero. However, the centers estimated by eMD converge slightly faster than those of Ham and Frob. The last two rows give the contaminated settings, that is, $r = 0 . 0 5$ and $r = 0 . 1$ . For all cases, the estimated centers of eMD are the closest to the real center. Noting that each column shares the same real center, we find that eMD is robust to outliers by comparing the EA curves under the same main model but with diferent levels of contamination. However, this is not the case for Ham and Frob as their Fréchet means gradually deviate from the real center as the contamination level increases.",
+        "bbox": [
+            503,
+            315,
+            924,
+            691
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In addition to robust center estimation, we evaluate the outlier detection performance via the average ranks assigned to outliers. We conduct the simulation under Setting I and report the results of 1000 runs in Table 5, where smaller ranks represent better performance. As shown, the outliers are assigned much smaller average ranks by eMD than by the other two methods. The 20 outliers are always ranked as the most outlying by eMD.",
+        "bbox": [
+            503,
+            691,
+            924,
+            799
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3. Computational Eficiency",
+        "text_level": 2,
+        "bbox": [
+            504,
+            824,
+            723,
+            840
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this section, we demonstrate the computational eficiency of the eMD. For weighted networks (using Algorithms S1), the time complexity of eMD is $O ( n \\log ( n ) N ^ { 2 } )$ , whereas for unweighted networks (using Algorithms S2), the time complexity is $O ( n N ^ { 2 } )$ ). In both cases, the computation is performed on $N ( N - 1 )$ edges. Specifically, for a fixed vertex pair $( i , j )$ the eMD for weighted networks involves ordering n samples, $l \\in [ n ] : e ^ { l } ( i , j )$ , with a time complexity of O(n log(n)), while for unweighted networks, it counts $\\# \\{ l \\in [ n ] : e ^ { l } ( i , j ) = 1 \\}$ , which takes $O ( n )$ . In contrast, Ham and Frob have time complexities of $O ( n ^ { 2 } N ^ { 2 } )$ , as they compute an n × n distance matrix, and each element requires $O ( N ^ { 2 } )$ time complexity.",
+        "bbox": [
+            503,
+            848,
+            924,
+            955
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "1634",
+        "bbox": [
+            75,
+            31,
+            104,
+            42
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            112,
+            27,
+            133,
+            44
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "M. ZHANG, L. DENG, AND W. DAI",
+        "bbox": [
+            140,
+            30,
+            310,
+            44
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "chart",
+        "img_path": "images/788747acf7a237bbc0aa289bf416ec59e632f0fbf6cd7b956f31693f06a05698.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "Method Ham  eMD- eMD3- Frob"
+        ],
+        "bbox": [
+            151,
+            61,
+            852,
+            486
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffc764460997fbc31447c75b60badba4b71bfa9017edb28af2721bb855a4e07e.jpg",
+        "table_caption": [
+            "Figure 4. Estimation accuracy (EA) and confidence interval of central network estimation for eMD, ${ \\mathsf { e M D } } ^ { 3 }$ Frob and Ham using equal weight without or with diferent types of outliers. The first row is the clean model, and the last two rows are contaminated with outlier rates of 5% and 10%, respectively. We fix N = 30 and repeat each case 200 times.",
+            "Table 5. The mean and standard deviation of average ranks assigned to outliers for eMD, Frob, and Ham using equal weight under Setting I."
+        ],
+        "table_footnote": [
+            "NOTE: We set n = 200 and r = 0.1. Marked in boldface are those achieving the best evaluation criteria in each setting."
+        ],
+        "table_body": "<table><tr><td></td><td>Ham</td><td>Frob</td><td>eMD</td></tr><tr><td>N = 30</td><td>78.30 (45.09)</td><td>68.24 (44.11)</td><td>10.50 (0.00)</td></tr><tr><td>N = 50</td><td>73.82 (43.49)</td><td>65.04 (41.72)</td><td>10.50 (0.00)</td></tr><tr><td>N = 100</td><td>69.49 (44.87)</td><td>63.420 (43.27)</td><td>10.50 (0.00)</td></tr><tr><td>N = 200</td><td>70.62 (45.15)</td><td>63.195 (44.15)</td><td>10.50 (0.00)</td></tr></table>",
+        "bbox": [
+            73,
+            594,
+            488,
+            665
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            726,
+            491,
+            803
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To numerically evaluate computational time, we conduct experiments using Scenario I with $r = 0 . 0 5$ in Section 4.1 for unweighted networks and Setting I with $r = 0 . 0 5$ in Section 4.2 for weighted networks. As depicted in Figure 5, the logarithm of running time for $\\mathrm { e M D } ^ { 3 }$ is slightly longer compared to the eMD. Both eMD and $\\mathrm { e M D } ^ { 3 }$ demonstrate significantly improved eficiency compared to Ham and Frob. eMD can be applied successfully to ten thousands of network samples and links. For example, when $n = 1 0 { , } 0 0 0$ and N = 200, eMD only takes about 44 seconds Moreover, the comparison of running times for eMD on unweighted and weighted networks validates the advantage of leveraging the binary nature of unweighted networks, which further enhances computational eficiency.",
+        "bbox": [
+            71,
+            804,
+            491,
+            955
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            504,
+            566,
+            924,
+            613
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5. Real Data Examples",
+        "text_level": 2,
+        "bbox": [
+            504,
+            643,
+            684,
+            659
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We apply our method to the electroencephalography (EEG) data. This dataset is derived from an empirical investigation conducted to explore the EEG manifestations of the genetic predisposition to alcoholism (http://kdd.ics.uci.edu/datasets/eeg/ eeg.data.html). The dataset comprises 77 individuals diagnosed with alcoholism and 45 control subjects. Each participant was placed with 64 scalp electrodes, which include 61 electrode caps (ECI, Electrocap International) and 3 reference channels (Khosla, Khandnor, and Chand 2020). EEG measurements were collected for each trial. Comprehensive details about this data collection can be found in the work of Zhang et al. (1995). The same dataset has also been analyzed in Li, Kim, and Altman (2010), Hung and Wang (2013) and Zhou and Li (2014).",
+        "bbox": [
+            503,
+            667,
+            924,
+            864
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Following their practice, our study concentrates on computing the average values across all trials conducted under the single-stimulus condition for each individual. As a result, this yields a spatial-temporal matrix of dimensions 256×64 for each subject. To make the data compatible with our method, we initially excluded three electrodes that lacked detailed descriptions, retaining a total of 61 electrodes with specific information, as listed in Table S1 of the supplementary material. Therefore, we have a spatial-temporal matrix of dimensions $2 5 6 \\times 6 1$ for each subject, denoted as $B ^ { ( l ) } \\in \\mathbb { R } ^ { 2 5 6 \\times 6 1 }$ for subject l. Then, for each subject, the connectivity network is constructed by calculating a matrix of dimension $6 1 \\times 6 1$ , each summarizing the connectivity between the 61 brain regions.",
+        "bbox": [
+            503,
+            864,
+            924,
+            955
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS",
+        "bbox": [
+            545,
+            30,
+            856,
+            44
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            864,
+            27,
+            885,
+            44
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "1635",
+        "bbox": [
+            893,
+            31,
+            923,
+            42
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "chart",
+        "img_path": "images/21ac016fb8e2637942323b7b162a800712464748e86432636418694173b476e9.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 5. Computational Time for eMD, eMD<sup>3</sup>, Ham, and Frob. The first row is for unweighted networks, and the second is for weighted. We consider Scenario I with r = 0.05 in Section 4.1 for unweighted network and Setting I with r = 0.05 in Section 4.2 for weighted network."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            124,
+            60,
+            874,
+            366
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            426,
+            491,
+            532
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The brain functional connectivity is commonly modeled using graph edges with correlation coeficients (Rubinov and Sporns 2010) as weights, which signify the strength of connectivity between vertices. While binarizing these coeficients can indicate connection existence, it may overlook crucial details and the analysis outcomes depend on the chosen threshold (Colon-Perez et al. 2016; Ahmadi, Fatemizadeh, and Nasrabad 2020). Additionally, in eMD method, using a binary data structure may result in some ties. Therefore, drawing inspiration from the key idea of eMD, we prefer to integrate edge weights into our approach if we can directly obtain weighted networks from the real data. Specifically, we determine connectivity in each individual by computing Pearson correlations between samples from a pair of regions. For subject l, we set the edge weight of the connectivity network as $\\dot { e ( i , j ) } = \\mathrm { c o r } ( B _ { . i } ^ { ( l ) } , B _ { . j } ^ { ( l ) } )$ , $\\begin{array} { r c l } { i , j } & { = } & { 1 , \\ldots , 6 1 } \\end{array}$ , which is commonly employed in existing neuroscience literature (Power et al. 2011). Finally, we obtain 122 networks classified into two groups consisting of 77 networks for the alcoholism and 45 for the control.",
+        "bbox": [
+            71,
+            532,
+            491,
+            823
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "First, we use eMD to find the central and outlying networks for each group, to investigate the diversity within and between groups. Figure 6 plots the heatmaps of the connectivity networks of two groups, with the three largest and smallest eMDs. For both groups, the main active regions of centers are in the frontal related and parietal related regions. This is consistent with existing findings that frontal and parietal regions are working in object recognition tasks (Castelli et al. 2000; Pennick and Kana",
+        "bbox": [
+            71,
+            823,
+            493,
+            946
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2012). To further visualize the EEG electrode positions, two groups of vertex strength heatmaps with three maximal eMDs centers are presented in Figure S5 in the supplementary material, which further supports the findings in Figure 6.",
+        "bbox": [
+            503,
+            426,
+            924,
+            487
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To the contrast, the outliers in both groups are extremely active in all regions. To verify the correctness of the detected outliers, we map the two group of subjects onto the Euclidean two-dimensional space via multidimensional scaling (MDS). MDS begins with computing a dissimilarity matrix based on the input data, followed by optimization that aims to minimize the discrepancy between the pairwise dissimilarities in the original data and those in the reduced-dimensional space, so as to find a lower-dimensional representation that best preserves the original pairwise dissimilarities. We apply eMD to rank the network ensembles from two groups and visualize the ranking results of each network using MDS through the cmdscale function from R package stat as shown in Figure 7. As shown, most outliers are isolated from the bulk of the data cloud, and the remaining samples display a more reasonable pattern. The performance reveals that eMD is useful and favorable in practical applications.",
+        "bbox": [
+            503,
+            487,
+            924,
+            729
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For weighted networks, the strength of a vertex is defined as the sum of the connected edge weights. Its distribution is a powerful tool to characterize the network properties. In order to quantify the strength of a vertex i, we define it as the sum of the absolute values of the weights of the connected edges, denoted as",
+        "bbox": [
+            503,
+            729,
+            924,
+            819
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ {i} = \\sum_ {j \\neq i} | A _ {i j} |, \\quad i = 1, \\dots , N.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            612,
+            823,
+            815,
+            858
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We construct the empirical strength distribution of a network ensemble by pooling up the strength sequences for all samples. Specifically, we estimate the density of vertex strength by kernel smoothing, which employs a Gaussian kernel with bandwidth chosen via the default method specified by the density function from R package stats. Figure 8 shows the 10% central region, 10%",
+        "bbox": [
+            503,
+            863,
+            924,
+            955
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "1636",
+        "bbox": [
+            75,
+            31,
+            104,
+            42
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            112,
+            27,
+            133,
+            44
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "M. ZHANG, L. DENG, AND W. DAI",
+        "bbox": [
+            140,
+            30,
+            310,
+            44
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/105be5f9cc06e0d0acc74b1fcb90a7ad212c792289cb78837438ba591950a330.jpg",
+        "image_caption": [
+            "(a) Center 1 of alcoholic"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            160,
+            63,
+            374,
+            219
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4b363888accf714579173cdcace16fefaa7f3106563680f5d85e89d47e91ca6.jpg",
+        "image_caption": [
+            "(b) Center 2 of alcoholic"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            392,
+            63,
+            604,
+            219
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed87377d73cd4b1f2f06d00eeafdac6e2ac85f975ccf5acb872e634f71aa3a53.jpg",
+        "image_caption": [
+            "(c) Center 3 of alcoholic"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            625,
+            64,
+            839,
+            219
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9e7b94dec6829cddcc899677361c4a0dcee0288bf3945d200169f90e9c3f083.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            158,
+            260,
+            375,
+            415
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "chart",
+        "img_path": "images/ddc962bfff819d4707b1c8a92e79a227bdb1a0c3ef0c11626e80dcabb8b79d90.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "bbox": [
+            390,
+            260,
+            607,
+            416
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/84addbb623650a24de736a520a97082239f38a74cf69d11de6d6020396b24e6b.jpg",
+        "image_caption": [
+            "(f) Outlier 3 of alcoholic"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            624,
+            261,
+            839,
+            416
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/97322391a8101dc1ac2b78a57a61b8666d52fe4f82fffec2c2951f51d21a68b1.jpg",
+        "image_caption": [
+            "(d) Outlier 1 of alcoholic (e) Outlier 2 of alcoholic",
+            "(g) Center 1 of control"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            160,
+            458,
+            375,
+            614
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "chart",
+        "img_path": "images/9e67e0279ffb0a14beaf57866bb3940b792f450483d3baa75ee629ffbbdec23a.jpg",
+        "content": "",
+        "chart_caption": [
+            "(h) Center 2 of control"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            392,
+            458,
+            607,
+            614
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/13d0ef5809c39cd8efb276ee78eca8115acfa9ef7897ab2463d582898fda9d4e.jpg",
+        "image_caption": [
+            "(i) Center 3 of control"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            624,
+            459,
+            836,
+            613
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f9681415d39e16668f12dcd6e658392669db38affddc5fbefc3b8f8f202c8a2.jpg",
+        "image_caption": [
+            "(j) Outlier 1 of control"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            156,
+            655,
+            370,
+            810
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "chart",
+        "img_path": "images/fdd80d26bf13fb76ce5be9f1520dcb84a7d573f4bb057df0d9adc562e5415d76.jpg",
+        "content": "",
+        "chart_caption": [
+            "(k) Outlier 2 of control"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            387,
+            655,
+            604,
+            811
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f663b2c7193244c44cf6d91120a84eacd3e208f4a717d28ae842e255a07493c.jpg",
+        "image_caption": [
+            "(1) Outlier 3 of control"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            620,
+            655,
+            834,
+            811
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Figure 6. Heatmaps of the connectivity networks from two groups. Centers 1, 2, and 3 are three subjects with the three largest eMDs, and outliers 1, 2, and 3 are three subjects with the three smallest eMDs. The rows and columns of the heatmaps are ordered according to Table S1. Left, central, and right brain hemispheres are marked in the plot. The blue dashed lines mark the boundaries of the frontal regions and the parietal regions within hemispheres.",
+        "bbox": [
+            73,
+            848,
+            923,
+            885
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "outliers, and 90% central region for two groups, which demonstrates the central samples are highly representative in that their strength distributions almost overlap those of the ensembles;",
+        "bbox": [
+            71,
+            906,
+            491,
+            953
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "whereas, the outliers severely deviate from the population in terms of the relatively right-skewed strength distributions, indicating their higher absolute strength.",
+        "bbox": [
+            504,
+            906,
+            923,
+            953
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS",
+        "bbox": [
+            545,
+            30,
+            854,
+            44
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            864,
+            27,
+            885,
+            44
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "1637",
+        "bbox": [
+            893,
+            31,
+            921,
+            44
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "chart",
+        "img_path": "images/e2ba5b88a8a69d452845d7644346c845fbf76d6400b77d9cff17715e75e54d08.jpg",
+        "content": "",
+        "chart_caption": [
+            "(a) alcoholic"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            142,
+            66,
+            491,
+            306
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "chart",
+        "img_path": "images/25707644e38bf51febdb3e3c96682883c94ef456d3fb847db292022a8bc54355.jpg",
+        "content": "",
+        "chart_caption": [
+            "(b) control"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            506,
+            66,
+            854,
+            305
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "chart",
+        "img_path": "images/61e8a0dca5e60b2c2a5f43d356caa3312fc411797f2f0d89685376b4ac83522b.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 7. Two-dimensional MDS plots of the two groups. We use the Frobenius distance between networks to measure the pairwise dissimilarity matrix of MDS",
+            "(a) alcoholic"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            140,
+            364,
+            493,
+            523
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "chart",
+        "img_path": "images/6ef4ae0a2a6e03c2e8713baad670d3a93e7979f5ae018110bd5226f8a9a61bf6.jpg",
+        "content": "",
+        "chart_caption": [
+            "(b) control",
+            "Figure 8. The probability density functions of vertex strength for diferent samples within the two groups."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            504,
+            364,
+            854,
+            523
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Then, we propose a two-sample rank test for network data with eMD by extending the concept of Liu and Singh (1993); see the detailed procedure in Section SIV of the supplementary material. We classify the networks of alcoholism and control as two groups and test the statistical significance of the diference between them with the proposed test. The p-value is 0.00218, suggesting that the EEG networks of alcoholism and control are significantly diferent. Further, the removal of outliers from both groups of samples is necessary to ensure the reliability and validity of the analysis. Outliers can significantly influence the test results and may lead to biased interpretations, making their exclusion essential for accurate statistical comparisons. Thus, we remove the 5% most outlying samples of each group and then re-perform the two-sample test on the remaining samples. The p-value becomes 0.00186, smaller than the previous one, which reinforces the fact that the two sample groups are statistically significantly diferent. This is in line with the results in Li, Kim, and Altman (2010).",
+        "bbox": [
+            71,
+            589,
+            493,
+            861
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "According to Figure 6, it seems that the alcoholic group has slightly lower brain activity than the control group, which requires further analysis of the group diference. Figure 9 shows the probability density functions of vertex strength of the 90% central subjects for two group. Figure 9 indicates that the alcoholic group has lower vertex strength than the control group.",
+        "bbox": [
+            71,
+            861,
+            491,
+            953
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "chart",
+        "img_path": "images/0ad5340f2709b8d3b465bf29ada06c2c406314496d6fcf7eef38aec037b59519.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 9. The probability density functions of vertex strength for the 90% central samples of the two groups."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            524,
+            590,
+            903,
+            763
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In addition, we define the mean strength sequence as $\\bar { \\boldsymbol { d } } _ { i } ~ =$ $\\begin{array} { r } { \\sum _ { l = 1 } ^ { n } d _ { i l } / n , i = 1 , . . . , N _ { ! } } \\end{array}$ , where $d _ { i l }$ is the strength of ith vertex of the lth network. Figure 10 plots the mean vertex strengths of two groups for the 61 electrodes. It is clear that brain activity in the alcoholic group is significantly lower than in the control group, especially for the recognition task related regions (CP1 to CPZ; O1 to POZ), suggesting that alcoholism suppresses neural activity in the brain connectivity. This is in line with the results in Banerjee (2014) and Abrahao, Salinas, and Lovinger (2017).",
+        "bbox": [
+            503,
+            847,
+            924,
+            955
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "1638",
+        "bbox": [
+            75,
+            31,
+            104,
+            42
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            112,
+            29,
+            133,
+            44
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "M. ZHANG, L. DENG, AND W. DAI",
+        "bbox": [
+            140,
+            30,
+            310,
+            44
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "chart",
+        "img_path": "images/24d37d86cdb70245c88481f7ecca488a00dca7931969abf0d50f105b278533ca.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 10. The mean vertex strengths of two groups for the 61 electrodes. The task related regions (CP1 to CPZ; O1 to POZ) are marked in gray."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            84,
+            66,
+            480,
+            299
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            359,
+            491,
+            392
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6. Discussion",
+        "text_level": 2,
+        "bbox": [
+            73,
+            417,
+            183,
+            431
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This study provides a robust description of a collection of networks built on common vertices. We define depth notions for network-valued data by incorporating global and local network structures. These are widely applicable to various networks (e.g., unweighted or weighted, directed or undirected). The depth values provide a central-outward ranking for a network collection, and consequently a series of rank-based description statistics, such as medians and outliers. The structure weight is included during the construction of proposed depths to further account for the structural information. In addition, we investigate their theoretical properties in terms of data depth and establish the consistency of depths and their induced medians. Fast algorithms are developed to ease practical implementation. The robustness of the new depths is evaluated through extensive simulation studies and a real example.",
+        "bbox": [
+            71,
+            441,
+            491,
+            667
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The proposed depths can be regarded as a nonparametric modeling of a network data ensemble. We have demonstrated their applications in several canonical tasks, such as robust center estimation, outlier detection, and a two-sample test. The new depths are also applicable to network data classification and clustering (Relión et al. 2019), change point detection for dynamic networks (Huang et al. 2020), robust community detection (Martinet et al. 2020), and link prediction (Martínez, Berzal, and Cubero 2017).",
+        "bbox": [
+            71,
+            667,
+            491,
+            803
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Several future research directions emerge from this work. First, the proposed depth notions work well for labeled networks, and investigating their extensions to unlabeled networks is a natural next step. Second, it is possible to extend our model framework to encompass networks from diferent sets, wherein variations in the number of vertices among observations are frequent occurrences in dynamic networks. In addition, exploring the depth properties for sparse weighted networks with inconsistently existent edges is an interesting topic. Another direction is to combine external information (e.g., vertex-level or sample-level covariates) with the network itself. Further efort is required to derive the theoretical properties for a general subgraph multiplex depth and develop an eficient computational algorithm.",
+        "bbox": [
+            71,
+            804,
+            491,
+            955
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            504,
+            63,
+            923,
+            125
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Materials",
+        "text_level": 2,
+        "bbox": [
+            504,
+            141,
+            704,
+            157
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "• The compressed file contains R codes for reproducing the numerical results.",
+        "bbox": [
+            504,
+            166,
+            923,
+            191
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "• The narrative file involves the description of proposed algorithms, additional numerical results and proofs of all theoretical results.",
+        "bbox": [
+            504,
+            191,
+            921,
+            218
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments",
+        "text_level": 2,
+        "bbox": [
+            504,
+            244,
+            653,
+            260
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We are very grateful to two anonymous referees, an associate editor, and the Editor for their valuable comments that have greatly improved the article.",
+        "bbox": [
+            504,
+            268,
+            923,
+            297
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Disclosure Statement",
+        "text_level": 2,
+        "bbox": [
+            504,
+            311,
+            674,
+            325
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We declare no competing interests.",
+        "bbox": [
+            504,
+            337,
+            704,
+            349
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Funding",
+        "text_level": 2,
+        "bbox": [
+            506,
+            367,
+            575,
+            382
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the NSSFC General Project (Grant No. 24BTJ066).",
+        "bbox": [
+            504,
+            391,
+            923,
+            417
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            506,
+            436,
+            594,
+            453
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Abbe, E. (2017), “Community Detection and Stochastic Block Models: Recent Developments,” Journal of Machine Learning Research, 18, 6446– 6531. [1625]",
+        "bbox": [
+            506,
+            463,
+            921,
+            500
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Abrahao, K. P., Salinas, A. G., and Lovinger, D. M. (2017), “Alcohol and the Brain: Neuronal Molecular Targets, Synapses, and Circuits,” Neuron, 96, 1223–1238. [1639]",
+        "bbox": [
+            508,
+            501,
+            921,
+            537
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Accominotti, O., Lucena-Piquero, D., and Ugolini, S. (2023), “Intermediaries’ Substitutability and Financial Network Resilience: A Hyperstructure Approach,” Journal of Economic Dynamics and Control, 153, 104700. [1625]",
+        "bbox": [
+            508,
+            539,
+            921,
+            588
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Ahmadi, H., Fatemizadeh, E., and Nasrabadi, A. M. (2020), “A Comparative Study of the Efect of Weighted or Binary Functional Brain Networks in fMRI Data Analysis,” Frontiers in Biomedical Technologies, 7, 160–169. [1636]",
+        "bbox": [
+            508,
+            589,
+            923,
+            638
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Balachandran, P., Kolaczyk, E. D., and Viles, W. D. (2017), “On the Propagation of Low-Rate Measurement Error to Subgraph Counts in Large Networks,” Journal of Machine Learning Research, 18, 2025–2057. [1627]",
+        "bbox": [
+            508,
+            638,
+            921,
+            676
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Banerjee, N. (2014), “Neurotransmitters in Alcoholism: A Review of Neurobiological and Genetic Studies,” Indian Journal of Human Genetics, 20, 20. [1639]",
+        "bbox": [
+            508,
+            678,
+            921,
+            714
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Barabási, A.-L., and Albert, R. (1999), “Emergence of Scaling in Random Networks,” Science, 286, 509–512. [1632]",
+        "bbox": [
+            508,
+            715,
+            921,
+            739
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Barbillon, P., Donnet, S., Lazega, E., and Bar-Hen, A. (2017), “Stochastic Block Models for Multiplex Networks: An Application to a Multilevel Network of Researchers,” Journal of the Royal Statistical Society, Series A, 180, 295–314. [1625]",
+        "bbox": [
+            508,
+            739,
+            921,
+            789
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Bertagnolli, G., Agostinelli, C., and De Domenico, M. (2020), “Network Depth: Identifying Median and Contours in Complex Networks,” Journal of Complex Networks, 8, cnz041. [1626]",
+        "bbox": [
+            506,
+            790,
+            923,
+            828
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Brands, R. A. (2013), “Cognitive Social Structures in Social Network Research: A Review,” Journal of Organizational Behavior, 34, S82–S103. [1631]",
+        "bbox": [
+            508,
+            828,
+            921,
+            864
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Cascos, I., Li, Q., and Molchanov, I. (2021), “Depth and Outliers for Samples of Sets and Random Sets Distributions,” Australian & New Zealand Journal of Statistics, 63, 55–82. [1626]",
+        "bbox": [
+            508,
+            866,
+            923,
+            902
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Castelli, F., Happé, F., Frith, U., and Frith, C. (2000), “Movement and Mind: A Functional Imaging Study of Perception and Interpretation of Complex Intentional Movement Patterns,” Neuroimage, 12, 314–325. [1636]",
+        "bbox": [
+            508,
+            904,
+            921,
+            953
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS",
+        "bbox": [
+            545,
+            30,
+            854,
+            44
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            862,
+            29,
+            883,
+            44
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "1639",
+        "bbox": [
+            893,
+            32,
+            923,
+            42
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "ref_text",
+        "text": "Chang, J., E. D. Kolaczyk, and Q. Yao (2020). Estimation of subgraph densities in noisy networks. Journal of the American Statistical Association, 1–14. [1625,1626,1627,1630,1631]",
+        "bbox": [
+            73,
+            64,
+            490,
+            103
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Chen, M., Gao, C., and Ren, Z. (2018), “Robust Covariance and Scatter Matrix Estimation under Huber’s Contamination Model,” The Annals of Statistics, 46, 1932–1960. [1626]",
+        "bbox": [
+            75,
+            103,
+            491,
+            140
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Claeskens, G., Hubert, M., Slaets, L., and Vakili, K. (2014), “Multivariate Functional Halfspace Depth,” Journal of the American Statistical Association, 109, 411–423. [1629,1631]",
+        "bbox": [
+            75,
+            140,
+            490,
+            178
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Colon-Perez, L. M., Couret, M., Triplett, W., Price, C. C., and Mareci, T. H. (2016), “Small Worldness in Dense and Weighted Connectomes,” Frontiers in Physics, 4, 14. [1636]",
+        "bbox": [
+            75,
+            178,
+            490,
+            215
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Dang, X., Silva, A., Singh, A., Swami, A., and Basu, P. (2016), “Outlier Detection from Network Data with Subnetwork Interpretation,” in 2016 IEEE 16th International Conference on Data Mining (ICDM), pp. 847– 852. [1625]",
+        "bbox": [
+            75,
+            215,
+            490,
+            266
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Donnat, C., and Holmes, S. (2018), “Tracking Network Dynamics: A Survey Using Graph Distances,” The Annals of Applied Statistics, 12, 971–1012. [1625]",
+        "bbox": [
+            75,
+            266,
+            490,
+            304
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Dubey, P., and Müller, H.-G. (2022), “Modeling Time-Varying Random Objects and Dynamic Networks,” Journal of the American Statistical Association, 117, 2252–2267. [1625]",
+        "bbox": [
+            75,
+            304,
+            490,
+            342
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Durante, D., and Dunson, D. B. (2018), “Bayesian Inference and Testing of Group Diferences in Brain Networks,” Bayesian Analysis, 13, 29–58. [1625]",
+        "bbox": [
+            75,
+            342,
+            490,
+            378
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Durante, D., Dunson, D. B., and Vogelstein, J. T. (2017), “Nonparametric Bayes Modeling of Populations of Networks,” Journal of the American Statistical Association, 112, 1516–1530. [1625]",
+        "bbox": [
+            75,
+            378,
+            491,
+            417
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Erdos, P., and Rényi, A. (1960), “On the Evolution of Random Graphs,”˝ Publication of the Mathematical Institute of the Hungarian Academy of Sciences, 5, 17–60. [1632]",
+        "bbox": [
+            75,
+            417,
+            491,
+            454
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Gilbert, E. N. (1959), “Random Graphs,” The Annals of Mathematical Statistics, 30, 1141–1144. [1626,1631]",
+        "bbox": [
+            75,
+            454,
+            490,
+            479
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Ginestet, C. E. (2012), “Strong Consistency of Fréchet Sample Mean Sets for Graph-Valued Random Variables,” arXiv preprint arXiv:1204.3183. [1631]",
+        "bbox": [
+            75,
+            479,
+            490,
+            517
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Gopal, S. (2007), “The Evolving Social Geography of Blogs,” in Societies and Cities in the Age of Instant Access, pp. 275–293, Springer. [1632]",
+        "bbox": [
+            75,
+            517,
+            490,
+            544
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Greicius, M. D., Srivastava, G., Reiss, A. L., and Menon, V. (2004), “Default-Mode Network Activity Distinguishes Alzheimer’s Disease from Healthy Aging: Evidence from Functional MRI,” Proceedings of the National Academy of Sciences, 101, 4637–4642. [1625]",
+        "bbox": [
+            75,
+            542,
+            490,
+            594
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Gupta, M., Gao, J., Aggarwal, C. C., and Han, J. (2014), “Outlier Detection for Temporal Data: A Survey,” IEEE Transactions on Knowledge and Data Engineering, 26, 2250–2267. [1625]",
+        "bbox": [
+            75,
+            594,
+            490,
+            631
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Han, F., Han, X., Liu, H., and Cafo, B. (2016), “Sparse Median Graphs Estimation in a High-Dimensional Semiparametric Model,” The Annals of Applied Statistics, 10, 1397–1426. [1625]",
+        "bbox": [
+            75,
+            631,
+            490,
+            669
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Hay, M., Li, C., Miklau, G., and Jensen, D. (2009), “Accurate Estimation of the Degree Distribution of Private Networks,” in 2009 Ninth IEEE International Conference on Data Mining, pp. 169–178, IEEE. [1625]",
+        "bbox": [
+            75,
+            669,
+            490,
+            707
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Hodge, V. J., and Austin, J. (2004), “A Survey of Outlier Detection Methodologies,” Artificial Intelligence Review, 22, 85–126. [1625]",
+        "bbox": [
+            75,
+            707,
+            488,
+            732
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Hof, P. D., Raftery, A. E., and Handcock, M. S. (2002), “Latent Space Approaches to Social Network Analysis,” Journal of the American Statistical Association, 97, 1090–1098. [1631]",
+        "bbox": [
+            75,
+            732,
+            490,
+            768
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Holland, P. W., Laskey, K. B., and Leinhardt, S. (1983), “Stochastic Blockmodels: First Steps,” Social Networks, 5, 109–137. [1632]",
+        "bbox": [
+            75,
+            768,
+            488,
+            794
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Hu, X. (2019), “Graph Comparison with Applications in Neuroscience,” Ph. D. thesis, Indiana University. [1625]",
+        "bbox": [
+            75,
+            794,
+            488,
+            819
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Huang, S., Hitti, Y., Rabusseau, G., and Rabbany, R. (2020), “Laplacian Change Point Detection for Dynamic Graphs,” in Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 349–358. [1639]",
+        "bbox": [
+            75,
+            820,
+            490,
+            869
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Hung, H., and Wang, C.-C. (2013), “Matrix Variate Logistic Regression Model with Application to EEG Data,” Biostatistics, 14, 189–202. [1635]",
+        "bbox": [
+            75,
+            869,
+            490,
+            907
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Jiang, X., Munger, A., and Bunke, H. (2001), “An Median Graphs: Properties, Algorithms, and Applications,” IEEE Transactions on Pattern Analysis and Machine Intelligence, 23, 1144–1151. [1625]",
+        "bbox": [
+            75,
+            907,
+            491,
+            946
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Khan, B. S., and Niazi, M. A. (2017), “Network Community Detection: A Review and Visual Survey,” arXiv preprint arXiv:1708.00977. [1625]",
+        "bbox": [
+            506,
+            64,
+            921,
+            103
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Khosla, A., Khandnor, P., and Chand, T. (2020), “A Comparative Analysis of Signal Processing and Classification Methods for Diferent Applications based on EEG Signals,” Biocybernetics and Biomedical Engineering, 40, 649–690. [1635]",
+        "bbox": [
+            506,
+            103,
+            923,
+            152
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Kolaczyk, E. D., Lin, L., Rosenberg, S., Walters, J., and Xu, J. (2020), “Averages of Unlabeled Networks: Geometric Characterization and Asymptotic Behavior,” The Annals of Statistics, 48, 514–538. [1631]",
+        "bbox": [
+            506,
+            152,
+            921,
+            190
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Koutra, D., Shah, N., Vogelstein, J. T., Gallagher, B., and Faloutsos, C. (2016), “Deltacon: Principled Massive-Graph Similarity Function with Attribution,” ACM Transactions on Knowledge Discovery from Data (TKDD), 10, 1–43. [1629]",
+        "bbox": [
+            506,
+            191,
+            923,
+            241
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Lafaye de Micheaux, P., Mozharovskyi, P., and Vimond, M. (2021), “Depth for Curve Data and Applications,” Journal of the American Statistical Association, 116, 1881–1897. [1626]",
+        "bbox": [
+            506,
+            241,
+            923,
+            279
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Li, B., Kim, M. K., and Altman, N. (2010), “On Dimension Folding of Matrix-or Array-Valued Statistical Objects,” The Annals of Statistics, 38, 1094–1121. [1635,1638]",
+        "bbox": [
+            506,
+            279,
+            923,
+            316
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Liu, R. Y. (1990), “On a Notion of Data Depth based on Random Simplices,” The Annals of Statistics, 18, 405–414. [1626]",
+        "bbox": [
+            506,
+            316,
+            923,
+            342
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Liu, R. Y., and Singh, K. (1993), “A Quality Index based on Data Depth and Multivariate Rank Tests,” Journal of the American Statistical Association, 88, 252–260. [1638]",
+        "bbox": [
+            506,
+            342,
+            923,
+            378
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Liu, W. (2013), “Gaussian Graphical Model Estimation with False Discovery Rate Control,” The Annals of Statistics, 41, 2948–2978. [1630]",
+        "bbox": [
+            506,
+            378,
+            923,
+            404
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Liu, X., Patacchini, E., and Rainone, E. (2017), “Peer Efects in Bedtime Decisions Among Adolescents: A Social Network Model with Sampled Data,” The Econometrics Journal, 20, S103–S125. [1625]",
+        "bbox": [
+            506,
+            404,
+            923,
+            441
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "López-Pintado, S., and Romo, J. (2006), “Depth-based Classification for Functional Data,” DIMACS Series in Discrete Mathematics and Theoretical Computer Science, 72, 103. [1631]",
+        "bbox": [
+            506,
+            441,
+            923,
+            479
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "(2009), “On the Concept of Depth for Functional Data,” Journal of the American Statistical Association, 104, 718–734. [1626,1627,1630,1631]",
+        "bbox": [
+            508,
+            479,
+            923,
+            518
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Lovato, I., Pini, A., Stamm, A., Taquet, M., and Vantini, S. (2021), “Multiscale Null Hypothesis Testing for Network-Valued Data: Analysis of Brain Networks of Patients with Autism,” Journal of the Royal Statistical Society, Series C, 70, 372–397. [1625]",
+        "bbox": [
+            506,
+            518,
+            923,
+            568
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Lovato, I., Pini, A., Stamm, A., and Vantini, S. (2020), “Model-Free Two-Sample Test for Network-Valued Data,” Computational Statistics & Data Analysis, 144, 106896. [1625]",
+        "bbox": [
+            506,
+            568,
+            923,
+            606
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Lunagómez, S., Olhede, S. C., and Wolfe, P. J. (2021), “Modeling Network Populations via Graph Distances,” Journal of the American Statistical Association, 116, 2023–2040. [1625,1626]",
+        "bbox": [
+            506,
+            604,
+            923,
+            643
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Ma, Z., Ma, Z., and Yuan, H. (2020), “Universal Latent Space Model Fitting for Large Networks with Edge Covariates,” Journal of Machine Learning Research, 21, 86–152. [1631]",
+        "bbox": [
+            506,
+            643,
+            923,
+            681
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Martinet, L., Kramer, M. A., Viles, W. D., Perkins, L. N., Spencer, E., Chu, C. J., Cash, S. S., and Kolaczyk, E. D. (2020), “Robust Dynamic Community Detection with Applications to Human Brain Functional Networks,” Nature Communications, 11, 2785. [1639]",
+        "bbox": [
+            506,
+            681,
+            923,
+            732
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Martínez, V., Berzal, F., and Cubero, J. C. (2017), “A Survey of Link Prediction in Complex Networks,” ACM Computing Surveys (CSUR), 49, 1–33. [1639]",
+        "bbox": [
+            506,
+            731,
+            921,
+            768
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Maugis, P.-A., Olhede, S., Priebe, C., and Wolfe, P. (2020), “Testing for Equivalence of Network Distribution Using Subgraph Counts,” Journal of Computational and Graphical Statistics, 29, 455–465. [1625,1627]",
+        "bbox": [
+            506,
+            768,
+            923,
+            806
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Newman, M. E., Watts, D. J., and Strogatz, S. H. (2002), “Random Graph Models of Social Networks,” Proceedings of the National Academy of Sciences, 99, 2566–2572. [1630]",
+        "bbox": [
+            506,
+            806,
+            924,
+            845
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Newman, M. E. J. (2010), Networks: An Introduction, Oxford; New York: Oxford University Press. [1630]",
+        "bbox": [
+            506,
+            845,
+            923,
+            869
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Paindaveine, D., and Van Bever, G. (2018), “Halfspace Depths for Scatter, Concentration and Shape Matrices,” The Annals of Statistics, 46, 3276– 3307. [1626]",
+        "bbox": [
+            508,
+            869,
+            923,
+            907
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Pandolfo, G., Paindaveine, D., and Porzio, G. C. (2018), “Distance-based Depths for Directional Data,” Canadian Journal of Statistics, 46, 593–609. [1626]",
+        "bbox": [
+            506,
+            907,
+            923,
+            945
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "1640",
+        "bbox": [
+            75,
+            32,
+            104,
+            42
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            112,
+            29,
+            133,
+            44
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "M. ZHANG, L. DENG, AND W. DAI",
+        "bbox": [
+            140,
+            31,
+            310,
+            44
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "ref_text",
+        "text": "Papadimitriou, P., Dasdan, A., and Garcia-Molina, H. (2010), “Web Graph Similarity for Anomaly Detection,” Journal of Internet Services and Applications, 1, 19–30. [1625]",
+        "bbox": [
+            75,
+            64,
+            490,
+            103
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Paul, S., and Chen, Y. (2020), “Spectral and Matrix Factorization Methods for Consistent Community Detection in Multi-Layer Networks,” The Annals of Statistics, 48, 230–250. [1625]",
+        "bbox": [
+            75,
+            103,
+            490,
+            140
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Pennick, M. R., and Kana, R. K. (2012), “Specialization and Integration of Brain Responses to Object Recognition and Location Detection,” Brain and Behavior, 2, 6–14. [1636]",
+        "bbox": [
+            75,
+            140,
+            491,
+            178
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Penrose, M. (2003), Random Geometric Graphs (Vol. 5), Oxford: OUP. [1632]",
+        "bbox": [
+            75,
+            178,
+            490,
+            203
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Power, J. D., Cohen, A. L., Nelson, S. M., Wig, G. S., Barnes, K. A., Church, J. A., Vogel, A. C., Laumann, T. O., Miezin, F. M., Schlaggar, B. L., et al. (2011), “Functional Network Organization of the Human Brain,” Neuron, 72, 665–678. [1636]",
+        "bbox": [
+            76,
+            204,
+            490,
+            253
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Raj, M., Mirzargar, M., Ricci, R., Kirby, R. M., and Whitaker, R. T. (2017), “Path Boxplots: A Method for Characterizing Uncertainty in Path Ensembles on a Graph,” Journal of Computational and Graphical Statistics, 26, 243–252. [1626]",
+        "bbox": [
+            75,
+            253,
+            491,
+            304
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Relión, J. D. A., Kessler, D. A., Levina, E., and Taylor, S. F. (2019), “Network Classification with Applications to Brain Connectomics,” The Annals of Applied Statistics, 13, 1648–1677. [1639]",
+        "bbox": [
+            75,
+            304,
+            491,
+            342
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Ren, Z., Sun, T., Zhang, C.-H., and Zhou, H. H. (2015), “Asymptotic Normality and Optimalities in Estimation of Large Gaussian Graphical Models,” The Annals of Statistics, 43, 991–1026. [1626,1630]",
+        "bbox": [
+            75,
+            342,
+            490,
+            378
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Rohe, K., Chatterjee, S., and Yu, B. (2011), “Spectral Clustering and the High-Dimensional Stochastic Blockmodel,” The Annals of Statistics, 39, 1878–1915. [1625]",
+        "bbox": [
+            75,
+            378,
+            490,
+            417
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Rubinov, M., and Sporns, O. (2010), “Complex Network Measures of Brain Connectivity: Uses and Interpretations,” Neuroimage, 52, 1059–1069. [1636]",
+        "bbox": [
+            75,
+            417,
+            490,
+            454
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Staerman, G., Mozharovskyi, P., Clémen, S., et al. (2020), “The Area of the Convex Hull of Sampled Curves: A Robust Functional Statistical Depth Measure,” in International Conference on Artificial Intelligence and Statistics, pp. 570–579, PMLR. [1629]",
+        "bbox": [
+            75,
+            455,
+            491,
+            505
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Sun, Y., Genton, M. G., and Nychka, D. W. (2012), “Exact Fast Computation of Band Depth for Large Functional Datasets: How Quickly Can One Million Curves be Ranked?” Stat, 1, 68–74. [1629]",
+        "bbox": [
+            75,
+            505,
+            490,
+            542
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Tukey, J. (1975), “Mathematics and the Picturing of Data,” Proceedings of the International Congress of Mathematicians, 2, 523–531. [1626]",
+        "bbox": [
+            75,
+            542,
+            490,
+            568
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Wang, Y. J., and Wong, G. Y. (1987), “Stochastic Blockmodels for Directed Graphs,” Journal of the American Statistical Association, 82, 8–19. [1631]",
+        "bbox": [
+            75,
+            568,
+            490,
+            594
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Watts, D. J., and Strogatz, S. H. (1998), “Collective Dynamics of ‘Small-World’ Networks,” Nature, 393, 440–442. [1632]",
+        "bbox": [
+            75,
+            594,
+            488,
+            618
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Xia, Y., and Li, L. (2022), “Hypothesis Testing for Network Data with Power Enhancement,” Statistica Sinica, 32, 293–321. [1625]",
+        "bbox": [
+            75,
+            619,
+            490,
+            643
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zanini, P., Congedo, M., Jutten, C., Said, S., and Berthoumieu, Y. (2016), “Parameters Estimate of Riemannian Gaussian Distribution in the Man-",
+        "bbox": [
+            75,
+            643,
+            490,
+            669
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "ifold of Covariance Matrices,” in 2016 IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM), pp. 1–5, IEEE. [1630]",
+        "bbox": [
+            521,
+            64,
+            921,
+            90
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zhang, J., and Cao, J. (2017), “Finding Common Modules in a Time-Varying Network with Application to the Drosophila Melanogaster Gene Regulation Network,” Journal of the American Statistical Association, 112, 994–1008. [1625,1626]",
+        "bbox": [
+            506,
+            90,
+            923,
+            140
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zhang, J., He, X., and Wang, J. (2022), “Directed Community Detection with Network Embedding,” Journal of the American Statistical Association, 117, 1809–1819. [1625]",
+        "bbox": [
+            506,
+            140,
+            923,
+            176
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zhang, J., Sun, W. W., and Li, L. (2020), “Mixed-Efect Time-Varying Network Model and Application in Brain Connectivity Analysis,” Journal of the American Statistical Association, 115, 2022–2036. [1631]",
+        "bbox": [
+            506,
+            178,
+            923,
+            215
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "(2023), “Generalized Connectivity Matrix Response Regression with Applications in Brain Connectivity Studies,” Journal of Computational and Graphical Statistics, 32, 252–262. [1631]",
+        "bbox": [
+            508,
+            217,
+            923,
+            253
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zhang, M., Cai, B., Dai, W., Kong, D., Zhao, H., and Zhang, J. (2024), “Learning Brain Connectivity in Social Cognition with Dynamic Network Regression,” The Annals of Applied Statistics, 18, 3405–3424. [1625,1626]",
+        "bbox": [
+            506,
+            253,
+            923,
+            303
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zhang, M., Huang, T., Guo, Z., and He, Z. (2022), “Complex-Network-based Trafic Network Analysis and Dynamics: A Comprehensive Review,” Physica A: Statistical Mechanics and its Applications, 607, 128063. [1625]",
+        "bbox": [
+            506,
+            304,
+            923,
+            354
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zhang, M., Zhang, J., and Dai, W. (2024), “Fast Community Detection in Dynamic and Heterogeneous Networks,” Journal of Computational and Graphical Statistics, 33, 487–500. [1625]",
+        "bbox": [
+            506,
+            354,
+            923,
+            392
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zhang, X. L., Begleiter, H., Porjesz, B., Wang, W., and Litke, A. (1995), “Event Related Potentials During Object Recognition Tasks,” Brain Research Bulletin, 38, 531–538. [1635]",
+        "bbox": [
+            506,
+            392,
+            923,
+            429
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zhang, Y., Meratnia, N., and Havinga, P. (2010), “Outlier Detection Techniques for Wireless Sensor Networks: A Survey,” IEEE Communications Surveys & Tutorials, 12, 159–170. [1625]",
+        "bbox": [
+            506,
+            429,
+            923,
+            467
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zhou, H., and Li, L. (2014), “Regularized Matrix Regression,” Journal of the Royal Statistical Society, Series B, 76, 463–483. [1626,1635]",
+        "bbox": [
+            506,
+            467,
+            923,
+            492
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zhu, X., Huang, D., Pan, R., and Wang, H. (2020), “Multivariate Spatial Autoregressive Model for Large Scale Social Networks,” Journal of Econometrics, 215, 591–606. [1625]",
+        "bbox": [
+            506,
+            493,
+            923,
+            530
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Ziezold, H. (1977), On Expected Figures and a Strong Law of Large Numbers for Random Elements in Quasi-Metric Spaces, pp. 591–602, Dordrecht: Springer Netherlands. [1631]",
+        "bbox": [
+            506,
+            530,
+            923,
+            568
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zou, T., Lan, W., Wang, H., and Tsai, C.-L. (2017), “Covariance Regression Analysis,” Journal of the American Statistical Association, 112, 266–281. [1625]",
+        "bbox": [
+            506,
+            568,
+            921,
+            604
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "Zuo, Y., and Serfling, R. (2000a), “General Notions of Statistical Depth Function,” The Annals of Statistics, 28, 461–482. [1626,1630]",
+        "bbox": [
+            506,
+            604,
+            921,
+            631
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "ref_text",
+        "text": "(2000b), “Structural Properties and Convergence Results for Contours of Sample Statistical Depth Functions,” The Annals of Statistics, 28, 483–499. [1631]",
+        "bbox": [
+            508,
+            631,
+            923,
+            667
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS",
+        "bbox": [
+            545,
+            31,
+            856,
+            44
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            862,
+            29,
+            883,
+            45
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "1641",
+        "bbox": [
+            893,
+            32,
+            921,
+            42
+        ],
+        "page_idx": 17
+    }
+]
