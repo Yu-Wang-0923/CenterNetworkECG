@@ -49,14 +49,14 @@ $$
 
 $$
 M(G_1,G_2,\dots,G_k) = \left\{G: G^{\mathrm{down}}\subset G\subset G^{\mathrm{up}}\right\}
-= \left\{(V,E): E^{\mathrm{down}}\subset E\subset E^{\mathrm{up}}\right\}. \tag{1}
+= \left\{(V,E): E^{\mathrm{down}}\subset E\subset E^{\mathrm{up}}\right\}. 
 $$
 
 直观地说，一个具有代表性的网络很可能位于上层和下层之间。因此，如果 G 落在多重结构内部，它就是一个具有代表性的网络；否则，它是一个异常值。图1给出了由两个网络构建的多重结构的示例，以及一个位于多重结构之外的样本。对于加权网络，多重结构类似地构建为：
 
 $$
 M(G_1,G_2,\dots,G_k) = \left\{G: G^{\mathrm{down}}\preceq G\preceq G^{\mathrm{up}}\right\}
-= \left\{(V,E): e^{\mathrm{down}}(i,j)\leq e(i,j)\leq e^{\mathrm{up}}(i,j),\; i\neq j\in[N]\right\}, \tag{2}
+= \left\{(V,E): e^{\mathrm{down}}(i,j)\leq e(i,j)\leq e^{\mathrm{up}}(i,j),\; i\neq j\in[N]\right\}, 
 $$
 
 其中 $e^{\mathrm{up}}(i,j)=\max_{l=1,2,\dots,k}e^l(i,j)$，$e^{\mathrm{down}}(i,j)=\min_{l=1,2,\dots,k}e^l(i,j)$。二值网络可以视为边权为0或1的加权网络。但这并不意味着简单地将无权网络视为加权网络，因为它们建立在不同的支撑集上，并且具有不同的理论性质。
@@ -65,14 +65,14 @@ $$
 
 $$
 MD_{pr}^k(G)=\mathbb{E}(\mathbf{1}\{G\in M(\mathbf{G}_1,\mathbf{G}_2,\dots,\mathbf{G}_k)\})
-=pr\{G\in M(\mathbf{G}_1,\mathbf{G}_2,\dots,\mathbf{G}_k)\}. \tag{3}
+=pr\{G\in M(\mathbf{G}_1,\mathbf{G}_2,\dots,\mathbf{G}_k)\}. 
 $$
 
 实际上，给定一个网络集合 $\mathcal{G}_n$，$n\geq k$，我们可以使用 U 统计量来估计 $MD_{pr}^k(G)$：
 
 $$
 MD_n^k(G)=\binom{n}{k}^{-1}\sum_{1\leq l_1<l_2<\dots<l_k\leq n}
-\mathbf{1}\{G\in M(G_{l_1},G_{l_2},\dots,G_{l_k})\}, \tag{4}
+\mathbf{1}\{G\in M(G_{l_1},G_{l_2},\dots,G_{l_k})\}, 
 $$
 
 它衡量了由 $\mathcal{G}_n$ 中所有 k 个网络组合构建的多重结构中包含 G 的比例。通过汇总在不同 k 值上分别建立的值，我们可以定义全局多重深度（gMD）来一次性考虑网络的全局结构。G 的样本和总体版 gMD 定义为：
@@ -81,7 +81,7 @@ $$
 \begin{aligned}
 gMD_n^K(G) &= \sum_{k=2}^K MD_n^k(G),\\
 gMD_{pr}^K(G) &= \sum_{k=2}^K MD_{pr}^k(G),
-\end{aligned}\tag{5}
+\end{aligned}
 $$
 
 其中 $M(\cdot)$、$MD_{pr}^k(\cdot)$ 和 $MD_n^k(\cdot)$ 分别在(2)–(4)中定义。如 López-Pintado and Romo（2009）所述，gMD 反映了网络的代表性，因此自然地引入了排序。然而，边权的变异性可能导致没有任何网络完全包含在任何多重结构中，特别是当网络规模较大时。此时 gMD 可能退化，因为所有网络都被赋予零深度而无法区分。我们通过将注意力从全局结构转向局部结构（即子图）来解决这个问题。
@@ -119,11 +119,11 @@ $$
 根据定义3，将 $\mathcal{G}_{[N]}$ 的边指示符记为 $\overline{H_{i,j}}=(V^{H_{i,j}},E^{H_{i,j}})$，其中 $V^{H_{i,j}}=\{i,j\}\subset[N]$，$E^{H_{i,j}}=\{e(i,j)\}$，$i\neq j$。那么 $H_{i,j}$ 的同构集由所有可能的边组成。结构权重可以方便地由一个零对角线的矩阵 $W=(w_{ij})$ 表示，其中 $w_{ij}\geq 0$ 且 $\sum_{i\neq j}w_{ij}=1$。样本版本和总体版本的边多重深度定义为：
 
 $$
-eMD_n^K(G;W)=\sum_{i\neq j} w_{ij}\, gMD_n^{H_{i,j},K}(G|_{H_{i,j}}), \tag{6}
+eMD_n^K(G;W)=\sum_{i\neq j} w_{ij}\, gMD_n^{H_{i,j},K}(G|_{H_{i,j}}), 
 $$
 
 $$
-eMD_{pr}^K(G;W)=\sum_{i\neq j} w_{ij}\, gMD_{pr}^{H_{i,j},K}(G|_{H_{i,j}}). \tag{7}
+eMD_{pr}^K(G;W)=\sum_{i\neq j} w_{ij}\, gMD_{pr}^{H_{i,j},K}(G|_{H_{i,j}}). 
 $$
 
 上述形式(6)和(7)将全局多重深度限制在单条边上，然后以结构权重取深度值的加权平均。eMD 的另一种解释（即 gMD 的一个软加权版本）可以通过重新排列(6)得到：
@@ -134,7 +134,7 @@ eMD_n^K(G;W) &= \sum_{i\neq j} w_{ij} gMD_n^{H_{i,j},K}(G|_{H_{i,j}}) \\
 &= \sum_{i\neq j} w_{ij} \sum_{k=2}^K \left(\binom{n}{k}^{-1} \sum_{1\leq l_1<l_2<\dots<l_k\leq n} \mathbf{1}\{G|_{H_{i,j}} \in M(G_{l_1}|_{H_{i,j}},\dots,G_{l_k}|_{H_{i,j}})\}\right) \\
 &= \sum_{k=2}^K \binom{n}{k}^{-1} \sum_{1\leq l_1<l_2<\dots<l_k\leq n} \sum_{i\neq j} w_{ij} \mathbf{1}\{G\in EM_{H_{i,j}}(G_{l_1},\dots,G_{l_k})\} \\
 &\triangleq \sum_{k=2}^K eMD_n^k(G;W),
-\end{aligned}\tag{8}
+\end{aligned}
 $$
 
 其中 $EM_{H_{i,j}}(G_{l_1},\dots,G_{l_k}) = \{G(V,E): e(i,j)\in [e^{\mathrm{down}}(i,j), e^{\mathrm{up}}(i,j)]\}$ 是边多重结构。
@@ -142,7 +142,7 @@ $$
 网络落入边多重结构的指示符的加权平均提供了完全包含和完全排除之间的中间度量，即部分包含。类似地，相对于总体 $pr(\cdot)$ 的总体版本 eMD 的分量可以表示为：
 
 $$
-eMD_{pr}^k(G;W)=\sum_{i\neq j} w_{ij}\, pr\{G\in EM_{H_{i,j}}(\mathbf{G}_1,\mathbf{G}_2,\dots,\mathbf{G}_k)\}. \tag{9}
+eMD_{pr}^k(G;W)=\sum_{i\neq j} w_{ij}\, pr\{G\in EM_{H_{i,j}}(\mathbf{G}_1,\mathbf{G}_2,\dots,\mathbf{G}_k)\}. 
 $$
 
 与(5)比较，在 $MD_n^k(G)$ 和 $MD_{pr}^k(G)$ 中的完全包含被(8)和(9)中由结构权重加权的部分包含所替代。当没有先验信息时，建议使用恒定的结构权重（即 $w_{ij}=1/(N\times(N-1))$）。否则，可以使用非均匀权重来考虑感兴趣网络结构的重要性，类似于在函数型深度中纳入权重函数的想法（Claeskens et al. 2014）。我们对 eMD 结构权重的设计基于 Koutra et al.（2016）提出的相似性得分原则，如边重要性、边次模性、权重感知和焦点感知。此外，函数型数据中的加权深度具有焦点感知的性质（Claeskens et al. 2014）。这使我们能够在表1中开发典型的结构权重。研究者可以根据实际应用确定结构权重的类型。
@@ -208,7 +208,7 @@ $$
 
 (c) 如果 $w_{ij}>0$ 且 $eMD_{pr}^K(\cdot;W)$ 在 $G^c$ 处唯一地达到最大值，令
 $$
-\widehat{\mathbf{G}}_n = \operatorname*{argmax}_{G\in\{\mathbf{G}_1,\mathbf{G}_2,\dots,\mathbf{G}_n\}} \, eMD_n^K(G;W), \tag{10}
+\widehat{\mathbf{G}}_n = \operatorname*{argmax}_{G\in\{\mathbf{G}_1,\mathbf{G}_2,\dots,\mathbf{G}_n\}} \, eMD_n^K(G;W), 
 $$
 则当 $n\to\infty$ 时 $\widehat{\mathbf{G}}_n \xrightarrow{\mathrm{a.s.}} G^c$。
 
@@ -249,7 +249,7 @@ $$
 我们考虑 $N=30$ 和200个顶点的网络，样本量 $n=50,100,200,\dots,500$。$N=200$ 的结果与 $N=30$ 类似，因此延迟到补充材料的第 SIII.1 节。我们考察了三个污染场景，大部分数据来自 SBM 模型，异常值来自其他模型。对于每次运行，我们使用 eMD 和 Ham 估计中心网络。估计精度（EA）通过真实中心（$G^c$）与估计中心（$\hat{G}^c$）之间的加权汉明距离来评估：
 
 $$
-\mathrm{EA}(G^c,\hat{G}^c)=\sum_{i\neq j}^N w_{ij}|A_{ij}^c-\hat{A}_{ij}^c|, \tag{12}
+\mathrm{EA}(G^c,\hat{G}^c)=\sum_{i\neq j}^N w_{ij}|A_{ij}^c-\hat{A}_{ij}^c|, 
 $$
 
 其中 $W=(w_{ij})$ 是结构权重矩阵。具有较小 EA 的估计中心更接近真实中心。我们重复每个场景200次。EA 的平均值和置信区间如图2所示。$K=2$（eMD）或 $K=3$（$\mathrm{eMD}^3$）的选择在性能上产生可忽略的差异。因此，在后续讨论中我们专注于 $K=2$。eMD 和 Ham 都随着样本量的增加而变得更精确。eMD 在中心网络估计方面显然表现更好，具有更低的 EA。eMD 在面对不同污染程度的各种异常值污染数据时也是稳定的。相比之下，Ham 对异常值敏感，随着污染比例的增加，估计偏差变得显著。
@@ -308,5 +308,6 @@ $$
 ---
 
 *注：本文为英文原版 "Multiplex Depth for Network-Valued Data and Applications"（Zhang, Deng & Dai, 2025, Journal of Computational and Graphical Statistics）的中文翻译。图表和补充材料请参阅原版文章。*
+
 
 
